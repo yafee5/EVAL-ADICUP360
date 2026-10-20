@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-20",
+  "design": "v0.2 / R13=4.99k / freshwater_lowheat",
+  "source_sha256": "cf95caa7a54f44483ffdd529d02b3d85709cbab76c72b01ca2e387b2b70fc07a",
+  "reference_records": 209,
+  "consolidated_electronic_rows": 76,
+  "other_rows": 81,
+  "total_procurement_rows": 157,
+  "excluded_optional_records": 13,
+  "electronic_single_unit_quantity": 196,
+  "categories": {
+    "主板电子料": 68,
+    "电源子板电子料": 8,
+    "探头与配套": 4,
+    "制板与结构": 12,
+    "标准液与水": 11,
+    "校准与测试设备": 13,
+    "容器与湿区耗材": 19,
+    "焊接装配工具": 16,
+    "下载与通信": 6
+  },
+  "checks": [
+    "原逐位号209条全部保留",
+    "全部装配行对应合并采购ID",
+    "合并用量与原装配用量相等",
+    "DNP/PCB特征未列入必购电子料",
+    "合并建议数量=用量+备件",
+    "淘宝搜索URL逐行编码校验",
+    "XLSX重开与行数校验"
+  ],
+  "limitations": [
+    "并未下单或核实库存/价格",
+    "ADI商城及授权渠道已核实；第三方目标网站受访问限制",
+    "探头与升级精密电阻须询价定标",
+    "不是硬件精度试验报告"
+  ]
+}

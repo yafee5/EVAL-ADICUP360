@@ -1,0 +1,224 @@
+﻿ID,板件,位号,项目/品名,单机/试验用量,建议备件/余量,建议采购量,单位,本版装配值,封装,型号或选型方向,必须满足的规格,采购等级,大陆采购渠道,官网/渠道入口,淘宝搜索词,淘宝搜索入口,下单/到货核对,备注,原厂商,原MPN,原BOM来源
+E001,CN0359 Rev.A主板,"C1, C9, C14, C18, C29, C30, C31, C81",电容 10u,8,4,12,只/件,10u,0805,GRM21BR61E106KA73,10 µF，0805，25 V，X5R，±10%；原BOM省略包装后缀，供应商确认完整订货码与偏压曲线。 保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",GRM21BR61E106KA73,https://s.taobao.com/search?q=GRM21BR61E106KA73,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,"位号：C1, C9, C14, C18, C29, C30, C31, C81。原ADI Rev.A BOM原件保留。",muRata,GRM21BR61E106KA73,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E002,CN0359 Rev.A主板,"C2, C3, C4, C5, C6, C7, C8, C46, C47, C48, C49, C51, C53, C58, C59, C61, C62, C69, C70, C71, C74, C77, C80, C82, C86, C88, C89, C90, C91, C94, C98, C99, C100",电容 1u,33,14,47,只/件,1u,0805,GCM21BR71E105KA56,1 µF，0805，25 V，X7R，±10%；确认完整包装后缀。 保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",GCM21BR71E105KA56,https://s.taobao.com/search?q=GCM21BR71E105KA56,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,"位号：C2, C3, C4, C5, C6, C7, C8, C46, C47, C48, C49, C51, C53, C58, C59, C61, C62, C69, C70, C71, C74, C77, C80, C82, C86, C88, C89, C90, C91, C94, C98, C99, C100。原ADI Rev.A BOM原件保留。",muRata,GCM21BR71E105KA56,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E003,CN0359 Rev.A主板,C10,电容 47u,1,9,10,只/件,47u,0805,C2012X5R1A476M125AC,47 µF，0805，10 V，X5R，±20%；不可用相同容量的大封装硬贴。 保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",C2012X5R1A476M125AC,https://s.taobao.com/search?q=C2012X5R1A476M125AC,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,位号：C10。原ADI Rev.A BOM原件保留。,TDK,C2012X5R1A476M125AC,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E004,CN0359 Rev.A主板,C13,电容 33n,1,9,10,只/件,33n,0805,CC0805KRX7R9BB333,33 nF，0805，50 V，X7R，±10%。 保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",CC0805KRX7R9BB333,https://s.taobao.com/search?q=CC0805KRX7R9BB333,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,位号：C13。原ADI Rev.A BOM原件保留。,YAGEO,CC0805KRX7R9BB333,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E005,CN0359 Rev.A主板,C16,电容 56p,1,9,10,只/件,56p,0805,C0805C560J5GACTU,56 pF，0805，50 V，C0G/NP0，±5%。 保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",C0805C560J5GACTU,https://s.taobao.com/search?q=C0805C560J5GACTU,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,位号：C16。原ADI Rev.A BOM原件保留。,KEMET,C0805C560J5GACTU,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E006,CN0359 Rev.A主板,"C11, C12, C15, C19, C20, C22, C25, C27, C28, C35, C36, C37, C38, C39, C40, C41, C43, C57, C83",电容 100n,19,8,27,只/件,100n,0805,CC0805KRX7R8BB104,100 nF，0805，25 V，X7R，±10%。 保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",CC0805KRX7R8BB104,https://s.taobao.com/search?q=CC0805KRX7R8BB104,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,"位号：C11, C12, C15, C19, C20, C22, C25, C27, C28, C35, C36, C37, C38, C39, C40, C41, C43, C57, C83。原ADI Rev.A BOM原件保留。",YAGEO,CC0805KRX7R8BB104,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E007,CN0359 Rev.A主板,"C21, C23, C26",电容 22u,3,7,10,只/件,22u,0805,C2012JB1E226M125AC,22 µF，0805，25 V；保持该原厂JB介质/容量/额定电压，按原厂数据表核对偏压容量。 保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",C2012JB1E226M125AC,https://s.taobao.com/search?q=C2012JB1E226M125AC,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,"位号：C21, C23, C26。原ADI Rev.A BOM原件保留。",TDK,C2012JB1E226M125AC,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E008,CN0359 Rev.A主板,C24,电容 3.3n,1,9,10,只/件,3.3n,0805,C2012C0G1H332J,3.3 nF，0805，50 V，C0G，±5%。 保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",C2012C0G1H332J,https://s.taobao.com/search?q=C2012C0G1H332J,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,位号：C24。原ADI Rev.A BOM原件保留。,TDK,C2012C0G1H332J,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E009,CN0359 Rev.A主板,"C33, C34",电容 2.2u,2,8,10,只/件,2.2u,0805,C2012X7R1E225K,2.2 µF，0805，25 V，X7R，±10%。 保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",C2012X7R1E225K,https://s.taobao.com/search?q=C2012X7R1E225K,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,"位号：C33, C34。原ADI Rev.A BOM原件保留。",TDK,C2012X7R1E225K,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E010,CN0359 Rev.A主板,"C42, C44, C56",电容 470n,3,7,10,只/件,470n,0805,X7R0805CTTD474J,470 nF，0805，X7R，±5%；额定电压按原厂料号核实，原电路±15 V供电处至少25 V。 保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",X7R0805CTTD474J,https://s.taobao.com/search?q=X7R0805CTTD474J,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,"位号：C42, C44, C56。原ADI Rev.A BOM原件保留。",KOA,X7R0805CTTD474J,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E011,CN0359 Rev.A主板,"C45, C54, C60, C67, C68, C76, C78, C87, C95, C97",电容 1n,10,4,14,只/件,1n,0805,ECJ2VG1H102J,1 nF，0805，50 V，±5%；原厂介质代码按数据表核对，替代优选C0G/NP0。 保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",ECJ2VG1H102J,https://s.taobao.com/search?q=ECJ2VG1H102J,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,"位号：C45, C54, C60, C67, C68, C76, C78, C87, C95, C97。原ADI Rev.A BOM原件保留。",Panasonic,ECJ2VG1H102J,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E012,CN0359 Rev.A主板,"C52, C63, C64, C72",电容 10n,4,6,10,只/件,10n,0805,ECU-V1H103KBG,10 nF，0805，50 V，±10%；替代保留原值/耐压，优先C0G可得件。 保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",ECU-V1H103KBG,https://s.taobao.com/search?q=ECU-V1H103KBG,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,"位号：C52, C63, C64, C72。原ADI Rev.A BOM原件保留。",Panasonic,ECU-V1H103KBG,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E013,CN0359 Rev.A主板,"C55, C75, C85, C96",电容 820p,4,6,10,只/件,820p,0805,CC0805KRX7R9BB821,820 pF，0805，50 V，X7R，±10%；可选升级C0G/NP0 ±5%或更好，四只同规格。 保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",CC0805KRX7R9BB821,https://s.taobao.com/search?q=CC0805KRX7R9BB821,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,"位号：C55, C75, C85, C96。原ADI Rev.A BOM原件保留。",YAGEO,CC0805KRX7R9BB821,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E014,CN0359 Rev.A主板,"C79, C92",电容 470p,2,8,10,只/件,470p,0805,0805CG471J9B200,470 pF，0805，C0G，±5%；原厂耐压代码须核对，采购至少25 V。 保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",0805CG471J9B200,https://s.taobao.com/search?q=0805CG471J9B200,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,"位号：C79, C92。原ADI Rev.A BOM原件保留。",YAGEO,0805CG471J9B200,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E015,CN0359 Rev.A主板,"C50, C73, C84, C93",电容 4.7u,4,6,10,只/件,4.7u,0805,GRM21BR61E475KA12L,4.7 µF，0805，25 V，X5R，±10%；保持原料，不能买大体积薄膜电容替换现有焊盘。 保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",GRM21BR61E475KA12L,https://s.taobao.com/search?q=GRM21BR61E475KA12L,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,"位号：C50, C73, C84, C93。采样保持4.7µF，保持原件及其额定电压/介质；不得为滤波或冗余随意加大/减小。",muRata,GRM21BR61E475KA12L,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E016,CN0359 Rev.A主板,"D1, D5",原板器件 BAT54S,2,8,10,只/件,BAT54S,SOT95P240X110-3M,BAT54S,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",BAT54S,https://s.taobao.com/search?q=BAT54S,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,"位号：D1, D5。原ADI Rev.A BOM原件保留。",DIODES,BAT54S,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E017,CN0359 Rev.A主板,"D2, D4",原板器件 1N4148W,2,8,10,只/件,1N4148W,SOD3816X127M,1N4148W,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",1N4148W,https://s.taobao.com/search?q=1N4148W,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,"位号：D2, D4。原ADI Rev.A BOM原件保留。",DIODES,1N4148W,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E018,CN0359 Rev.A主板,J1,原板器件 MJ-179PH,1,1,2,只/件,MJ-179PH,DC-005,MJ-179PH,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。 核对焊盘、插针外形及配套插头内外径；外接+5.0 V，中心正负以实测主板针脚确认。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",MJ-179PH,https://s.taobao.com/search?q=MJ-179PH,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,位号：J1。原ADI Rev.A BOM原件保留。,MULTICOMP,MJ-179PH,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E019,CN0359 Rev.A主板,J2,原板器件 OSTTC032162,1,1,2,只/件,OSTTC032162,OSTTC032162,OSTTC032162,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",OSTTC032162,https://s.taobao.com/search?q=OSTTC032162,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,位号：J2。原ADI Rev.A BOM原件保留。,ON-SHORE TECHNOLOGY,OSTTC032162,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E020,CN0359 Rev.A主板,J3,原板器件 OSTTC042162,1,1,2,只/件,OSTTC042162,OSTTC042162,OSTTC042162,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",OSTTC042162,https://s.taobao.com/search?q=OSTTC042162,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,位号：J3。原ADI Rev.A BOM原件保留。,ON-SHORE TECHNOLOGY,OSTTC042162,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E021,CN0359 Rev.A主板,J4,原板器件 302-S201,1,1,2,只/件,302-S201,302-S201,302-S201,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",302-S201,https://s.taobao.com/search?q=302-S201,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,位号：J4。原ADI Rev.A BOM原件保留。,ON-SHORE TECHNOLOGY,302-S201,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E022,CN0359 Rev.A主板,J5,原板器件 OSTTC052162,1,1,2,只/件,OSTTC052162,OSTTC052162,OSTTC052162,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",OSTTC052162,https://s.taobao.com/search?q=OSTTC052162,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,位号：J5。原ADI Rev.A BOM原件保留。,ON-SHORE TECHNOLOGY,OSTTC052162,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E023,CN0359 Rev.A主板,L1,原板器件 22u,1,1,2,只/件,22u,SLF60XX,SLF6045T-220M1R1-3PF,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",SLF6045T-220M1R1-3PF,https://s.taobao.com/search?q=SLF6045T-220M1R1-3PF,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,位号：L1。原ADI Rev.A BOM原件保留。,TDK,SLF6045T-220M1R1-3PF,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E024,CN0359 Rev.A主板,"L3, L4, L5",原板器件 BNX025H01,3,1,4,只/件,BNX025H01,BNX02,BNX025H01,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",BNX025H01,https://s.taobao.com/search?q=BNX025H01,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,"位号：L3, L4, L5。原ADI Rev.A BOM原件保留。",muRata,BNX025H01,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E025,CN0359 Rev.A主板,Q1,原板器件 FMMT718,1,9,10,只/件,FMMT718,SOT95P251X112-3M,FMMT718,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",FMMT718,https://s.taobao.com/search?q=FMMT718,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,位号：Q1。原ADI Rev.A BOM原件保留。,DIODES,FMMT718,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E026,CN0359 Rev.A主板,"R1, R17",电阻 47k,2,8,10,只/件,47k,0805,RC0805FR-0747KL,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",RC0805FR-0747KL,https://s.taobao.com/search?q=RC0805FR-0747KL,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,"位号：R1, R17。原ADI Rev.A BOM原件保留。",YAGEO,RC0805FR-0747KL,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E027,CN0359 Rev.A主板,R2,电阻 2.40k,1,9,10,只/件,2.40k,0805,ERA-6YEB242V,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",ERA-6YEB242V,https://s.taobao.com/search?q=ERA-6YEB242V,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,位号：R2。原ADI Rev.A BOM原件保留。,Panasonic,ERA-6YEB242V,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E028,CN0359 Rev.A主板,R3,电阻 18k,1,9,10,只/件,18k,0805,RC0805JR-0718KL,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",RC0805JR-0718KL,https://s.taobao.com/search?q=RC0805JR-0718KL,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,位号：R3。原ADI Rev.A BOM原件保留。,YAGEO,RC0805JR-0718KL,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E029,CN0359 Rev.A主板,R4,电阻 200k,1,9,10,只/件,200k,0805,RK73H2ATTDD2003F,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",RK73H2ATTDD2003F,https://s.taobao.com/search?q=RK73H2ATTDD2003F,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,位号：R4。原ADI Rev.A BOM原件保留。,KOA,RK73H2ATTDD2003F,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E030,CN0359 Rev.A主板,R5,电阻 7.50k,1,9,10,只/件,7.50k,0805,ERA-6AEB752V,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",ERA-6AEB752V,https://s.taobao.com/search?q=ERA-6AEB752V,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,位号：R5。原ADI Rev.A BOM原件保留。,Panasonic,ERA-6AEB752V,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E031,CN0359 Rev.A主板,"R19, R29, R37, R48",电阻 7.50k,4,4,8,只/件,7.50k,0805,参数选型/询价，未指定已核实MPN,0805；保持7.50k原值；初始容差≤0.01%；TCR优选≤2ppm/°C，≤5ppm替代须验证温漂；额定功率≥0.1W；优先同系列/同批次并记录实测匹配。,精密升级，先询价,贸泽中国/得捷中国向Vishay、VPG或Susumu精密系列询价；须提供完整MPN和数据表,"https://www.mouser.cn/
+https://www.digikey.cn/",7.50k 0805 0.01% 2ppm 精密电阻,https://s.taobao.com/search?q=7.50k%200805%200.01%25%202ppm%20%E7%B2%BE%E5%AF%86%E7%94%B5%E9%98%BB,付款前须拿到完整MPN及原厂数据表，逐项确认阻值、0805、容差和TCR；原BOM MPN不能作为升级件替身。,"位号：R19, R29, R37, R48。优选升级：四路衰减比例电阻，数值和0805焊盘保持；原MPN不被声称满足新精度/TCR要求。若降级使用原BOM，必须另记录并重新核算/验证误差预算。",Panasonic,ERA-6AEB752V,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E032,CN0359 Rev.A主板,"R6, R9",电阻 6.8,2,8,10,只/件,6.8,0805,RC0805JR-076R8L,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",RC0805JR-076R8L,https://s.taobao.com/search?q=RC0805JR-076R8L,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,"位号：R6, R9。原ADI Rev.A BOM原件保留。",YAGEO,RC0805JR-076R8L,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E033,CN0359 Rev.A主板,R7,电阻 36k,1,9,10,只/件,36k,0805,ERJ-6ENF3602V,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",ERJ-6ENF3602V,https://s.taobao.com/search?q=ERJ-6ENF3602V,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,位号：R7。原ADI Rev.A BOM原件保留。,Panasonic,ERJ-6ENF3602V,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E034,CN0359 Rev.A主板,R8,电阻 5.1k,1,9,10,只/件,5.1k,0805,RC0805JR-075K1L,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",RC0805JR-075K1L,https://s.taobao.com/search?q=RC0805JR-075K1L,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,位号：R8。原ADI Rev.A BOM原件保留。,YAGEO,RC0805JR-075K1L,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E035,CN0359 Rev.A主板,R10,电阻 10k,1,9,10,只/件,10k,0805,CRCW080510K0JNEA,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",CRCW080510K0JNEA,https://s.taobao.com/search?q=CRCW080510K0JNEA,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,位号：R10。原ADI Rev.A BOM原件保留。,VISHAY,CRCW080510K0JNEA,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E036,CN0359 Rev.A主板,"R49, R50",电阻 10k,2,8,10,只/件,10k,0805,原MPN或经核实的同封装1%备选,0805；10kΩ；原件可用，建议两只均升级为≤1%、同系列、TCR≤100ppm/°C，功率≥0.1W。,必装；升级规格见说明,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",10k 0805 1% 100ppm 电阻,https://s.taobao.com/search?q=10k%200805%201%25%20100ppm%20%E7%94%B5%E9%98%BB,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,"位号：R49, R50。可选VMID分压余量升级；原MPN保留，但原件不冒充1%件。两只同规格采购，装配方案和VMID实测写入记录。",VISHAY,CRCW080510K0JNEA,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E037,CN0359 Rev.A主板,R12,电阻 36,1,9,10,只/件,36,0805,CRCW080536R0FKEA,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",CRCW080536R0FKEA,https://s.taobao.com/search?q=CRCW080536R0FKEA,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,位号：R12。原ADI Rev.A BOM原件保留。,VISHAY,CRCW080536R0FKEA,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E038,CN0359 Rev.A主板,R13,电阻 4.99kΩ,1,2,3,只/件,4.99kΩ,0805,参数选型/询价，未指定已核实MPN,0805；4.99kΩ；初始容差≤0.01%；TCR绝对值≤2ppm/°C；额定功率≥0.1W；索取准确值、TCR及批次记录。,必买/必改，先询价,贸泽中国/得捷中国向Vishay、VPG或Susumu精密系列询价；须提供完整MPN和数据表,"https://www.mouser.cn/
+https://www.digikey.cn/",4.99kΩ 0805 0.01% 2ppm 精密电阻,https://s.taobao.com/search?q=4.99k%CE%A9%200805%200.01%25%202ppm%20%E7%B2%BE%E5%AF%86%E7%94%B5%E9%98%BB,付款前须拿到完整MPN及原厂数据表，逐项确认阻值、0805、容差和TCR；原BOM MPN不能作为升级件替身。,位号：R13。必改：原1.50k/原MPN不满足本版改值与升级规格，禁止按原MPN下单冒充升级件；配freshwater_lowheat固件及200µA RTD激励。,Panasonic,ERA-6YEB152V,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E039,CN0359 Rev.A主板,R14,电阻 110.0k,1,9,10,只/件,110.0k,0805,ERA-6AEB114V,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",ERA-6AEB114V,https://s.taobao.com/search?q=ERA-6AEB114V,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,位号：R14。原ADI Rev.A BOM原件保留。,Panasonic,ERA-6AEB114V,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E040,CN0359 Rev.A主板,R15,电阻 15.0k,1,9,10,只/件,15.0k,0805,ERA-6YEB153V,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",ERA-6YEB153V,https://s.taobao.com/search?q=ERA-6YEB153V,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,位号：R15。原ADI Rev.A BOM原件保留。,Panasonic,ERA-6YEB153V,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E041,CN0359 Rev.A主板,"R16, R22",电阻 13k,2,8,10,只/件,13k,0805,ERJ-6ENF1302V,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",ERJ-6ENF1302V,https://s.taobao.com/search?q=ERJ-6ENF1302V,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,"位号：R16, R22。原ADI Rev.A BOM原件保留。",Panasonic,ERJ-6ENF1302V,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E042,CN0359 Rev.A主板,R18,电阻 2.7k,1,9,10,只/件,2.7k,0805,MC 0.1W 0805 1% 2K7.,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",MC 0.1W 0805 1% 2K7.,https://s.taobao.com/search?q=MC%200.1W%200805%201%25%202K7.,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,位号：R18。原ADI Rev.A BOM原件保留。,MULTICOMP,MC 0.1W 0805 1% 2K7.,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E043,CN0359 Rev.A主板,"R21, R32, R39, R53",电阻 24,4,6,10,只/件,24,0805,MCR10EZHF24R0,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",MCR10EZHF24R0,https://s.taobao.com/search?q=MCR10EZHF24R0,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,"位号：R21, R32, R39, R53。保持完整官方原图/BOM的24Ω；不要按文章简图误买240Ω。",ROHM,MCR10EZHF24R0,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E044,CN0359 Rev.A主板,"R11, R23, R25, R26, R28, R30, R40, R43, R44, R46, R51",电阻 1k,11,5,16,只/件,1k,0805,RC0805JR-071KL,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",RC0805JR-071KL,https://s.taobao.com/search?q=RC0805JR-071KL,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,"位号：R11, R23, R25, R26, R28, R30, R40, R43, R44, R46, R51。原ADI Rev.A BOM原件保留。",YAGEO,RC0805JR-071KL,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E045,CN0359 Rev.A主板,"R24, R27",电阻 27.0k,2,2,4,只/件,27.0k,0805,参数选型/询价，未指定已核实MPN,0805；27.0kΩ；两只同系列，≤0.01%，TCR优选≤2ppm/°C、最多5ppm/°C并实测匹配；保持原尺寸和阻值。,必装；升级规格见说明,贸泽中国/得捷中国向Vishay、VPG或Susumu精密系列询价；须提供完整MPN和数据表,"https://www.mouser.cn/
+https://www.digikey.cn/",27.0k 0805 0.01% 2ppm 精密电阻,https://s.taobao.com/search?q=27.0k%200805%200.01%25%202ppm%20%E7%B2%BE%E5%AF%86%E7%94%B5%E9%98%BB,付款前须拿到完整MPN及原厂数据表，逐项确认阻值、0805、容差和TCR；原BOM MPN不能作为升级件替身。,"位号：R24, R27。可选交流正负幅值对称性升级；最终仍须示波器检查电极直流分量。",Panasonic,ERA-6AEB273V,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E046,CN0359 Rev.A主板,R35,电阻 470k,1,9,10,只/件,470k,0805,RK73B2ATTD474J,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",RK73B2ATTD474J,https://s.taobao.com/search?q=RK73B2ATTD474J,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,位号：R35。原ADI Rev.A BOM原件保留。,KOA,RK73B2ATTD474J,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E047,CN0359 Rev.A主板,"R33, R34, R36, R41, R42, R45",电阻 430,6,4,10,只/件,430,0805,RC0805JR-07430RL,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",RC0805JR-07430RL,https://s.taobao.com/search?q=RC0805JR-07430RL,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,"位号：R33, R34, R36, R41, R42, R45。原ADI Rev.A BOM原件保留。",YAGEO,RC0805JR-07430RL,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E048,CN0359 Rev.A主板,"R20, R31, R38, R52",电阻 1.20k,4,4,8,只/件,1.20k,0805,参数选型/询价，未指定已核实MPN,0805；保持1.20k原值；初始容差≤0.01%；TCR优选≤2ppm/°C，≤5ppm替代须验证温漂；额定功率≥0.1W；优先同系列/同批次并记录实测匹配。,精密升级，先询价,贸泽中国/得捷中国向Vishay、VPG或Susumu精密系列询价；须提供完整MPN和数据表,"https://www.mouser.cn/
+https://www.digikey.cn/",1.20k 0805 0.01% 2ppm 精密电阻,https://s.taobao.com/search?q=1.20k%200805%200.01%25%202ppm%20%E7%B2%BE%E5%AF%86%E7%94%B5%E9%98%BB,付款前须拿到完整MPN及原厂数据表，逐项确认阻值、0805、容差和TCR；原BOM MPN不能作为升级件替身。,"位号：R20, R31, R38, R52。优选升级：四路衰减比例电阻，数值和0805焊盘保持；原MPN不被声称满足新精度/TCR要求。若降级使用原BOM，必须另记录并重新核算/验证误差预算。",Panasonic,ERA-6YEB122V,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E049,CN0359 Rev.A主板,R47,电阻 1.00kΩ,1,2,3,只/件,1.00kΩ,0805,参数选型/询价，未指定已核实MPN,0805；1.00kΩ；初始容差≤0.01%；TCR优选≤2ppm/°C，采用≤5ppm件须重新核算环境温漂并实测；额定功率≥0.1W；不得改变焊盘或阻值。,精密升级，先询价,贸泽中国/得捷中国向Vishay、VPG或Susumu精密系列询价；须提供完整MPN和数据表,"https://www.mouser.cn/
+https://www.digikey.cn/",1.00kΩ 0805 0.01% 2ppm 精密电阻,https://s.taobao.com/search?q=1.00k%CE%A9%200805%200.01%25%202ppm%20%E7%B2%BE%E5%AF%86%E7%94%B5%E9%98%BB,付款前须拿到完整MPN及原厂数据表，逐项确认阻值、0805、容差和TCR；原BOM MPN不能作为升级件替身。,位号：R47。必改精度等级，阻值保持1k；原MPN仅供追溯，不作为满足升级规格的推荐件。,Panasonic,ERA-6YEB102V,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E050,CN0359 Rev.A主板,S1,旋转编码器 带按压开关旋转编码器,1,1,2,只/件,带按压开关旋转编码器,PEC11R-S,PEC12R-4120F-S0012,保持完整订购型号、引脚排列、轴型、轴长及脉冲/定位特性；不能按PCB封装标注PEC11R-S猜替代料。 原PCB封装名PEC11R-S不能替代实际订货码PEC12R-4120F-S0012；旋钮另列。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",PEC12R-4120F-S0012,https://s.taobao.com/search?q=PEC12R-4120F-S0012,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,位号：S1；采购子项：旋转编码器。原BOM第一项，编码器本体；与旋钮分别采购。,BOURNS,PEC12R-4120F-S0012,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E051,CN0359 Rev.A主板,S1,编码器旋钮 匹配编码器轴的旋钮,1,0,1,只/件,匹配编码器轴的旋钮,机械件/不焊接,506.61,采购前核对轴孔、轴型与外径/高度；机械外观替换须保持轴配合和面板间隙。 原PCB封装名PEC11R-S不能替代实际订货码PEC12R-4120F-S0012；旋钮另列。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",506.61,https://s.taobao.com/search?q=506.61,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,位号：S1；采购子项：编码器旋钮。原BOM第二项，机械旋钮；不是编码器替代料。,MENTOR,506.61,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E052,CN0359 Rev.A主板,U1,LCD显示模块 128×64 LCD，原厂指定模块,1,0,1,只/件,128×64 LCD，原厂指定模块,MCCOG128064A,BTHQ128064AVC1-COG-STF-LED,按原LCD型号及接口/控制器采购，提供现行数据表核对外形、接触方向、背光与针脚；缺货时不能只按12864名称替代。 原接口焊盘必须保留。普通12864液晶不保证电压、引脚、控制器、排线兼容。,必买（已有可复用）,贸泽中国/得捷中国按原厂编号询价；有库存后再下其他长交期件,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",BTHQ128064AVC1-COG-STF-LED,https://s.taobao.com/search?q=BTHQ128064AVC1-COG-STF-LED,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。 LCD和匹配连接器是两件都需要；付款前核对模块外形图和排线图。,位号：U1；采购子项：LCD显示模块。原BOM逗号分隔的第一项；与下行连接器是两种不同物料，不是替代型号。,BATRON,BTHQ128064AVC1-COG-STF-LED,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E053,CN0359 Rev.A主板,U1,LCD板端连接器 LCD匹配板端连接器,1,1,2,只/件,LCD匹配板端连接器,原U1接口焊盘；按原件外形,68612214122,与原LCD和Gerber匹配；采购前核对针距、触点方向、安装高度及锁扣，不能用外观相近连接器替换。 原接口焊盘必须保留。普通12864液晶不保证电压、引脚、控制器、排线兼容。,必买（已有可复用）,贸泽中国/得捷中国按原厂编号询价；有库存后再下其他长交期件,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",68612214122,https://s.taobao.com/search?q=68612214122,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。 LCD和匹配连接器是两件都需要；付款前核对模块外形图和排线图。,位号：U1；采购子项：LCD板端连接器。原BOM逗号分隔的第二项；LCD模块和该连接器各采购1件。,WURTH ELEKTRONIK,68612214122,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E054,CN0359 Rev.A主板,U2,原板器件 WST-1203UX,1,1,2,只/件,WST-1203UX,BUZZER12MM,WST-1203UX,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",WST-1203UX,https://s.taobao.com/search?q=WST-1203UX,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,位号：U2。原ADI Rev.A BOM原件保留。,Soberton Inc,WST-1203UX,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E055,CN0359 Rev.A主板,U3,原板器件 SI2343DS,1,1,2,只/件,SI2343DS,SOT95P251X112-3M,SI2343DS,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",SI2343DS,https://s.taobao.com/search?q=SI2343DS,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,位号：U3。原ADI Rev.A BOM原件保留。,VISHAY,SI2343DS,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E056,CN0359 Rev.A主板,U5,原板器件 ADP1613ARMZ,1,1,2,只/件,ADP1613ARMZ,SOP65P490X110-8M,ADP1613ARMZ,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,ADI中国人民币商城优先；贸泽中国/得捷中国按完整MPN询价并核对来源,"https://www.analog.com/cn/lp/002/promotion/china-eshop.html
+https://www.mouser.cn/
+https://www.digikey.cn/",ADP1613ARMZ,https://s.taobao.com/search?q=ADP1613ARMZ,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,位号：U5。原ADI Rev.A BOM原件保留。,Analog Devices,ADP1613ARMZ,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E057,CN0359 Rev.A主板,U6,原板器件 AD8592ARMZ,1,1,2,只/件,AD8592ARMZ,SOP50P490X110-10M,AD8592ARMZ,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,ADI中国人民币商城优先；贸泽中国/得捷中国按完整MPN询价并核对来源,"https://www.analog.com/cn/lp/002/promotion/china-eshop.html
+https://www.mouser.cn/
+https://www.digikey.cn/",AD8592ARMZ,https://s.taobao.com/search?q=AD8592ARMZ,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,位号：U6。原ADI Rev.A BOM原件保留。,Analog Devices,AD8592ARMZ,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E058,CN0359 Rev.A主板,U7,原板器件 ADM3075EARZ,1,1,2,只/件,ADM3075EARZ,SOIC127P600X175-8M,ADM3075EARZ,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。 采购Rev.A的ADM3075EARZ（SOIC8）；不要误买旧版ADM3483。,必买（已有可复用）,ADI中国人民币商城优先；贸泽中国/得捷中国按完整MPN询价并核对来源,"https://www.analog.com/cn/lp/002/promotion/china-eshop.html
+https://www.mouser.cn/
+https://www.digikey.cn/",ADM3075EARZ,https://s.taobao.com/search?q=ADM3075EARZ,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,位号：U7。原ADI Rev.A BOM原件保留。,Analog Devices,ADM3075EARZ,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E059,CN0359 Rev.A主板,U8,原板器件 ADuCM360BCPZ128,1,1,2,只/件,ADuCM360BCPZ128,QFN50P700X700X80-49M,ADuCM360BCPZ128,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。 LFCSP48+EP，7×7 mm；底部EP49必须回流/热风焊接；勿买ADuCM361替代。,必买（已有可复用）,ADI中国人民币商城优先；贸泽中国/得捷中国按完整MPN询价并核对来源,"https://www.analog.com/cn/lp/002/promotion/china-eshop.html
+https://www.mouser.cn/
+https://www.digikey.cn/",ADuCM360BCPZ128,https://s.taobao.com/search?q=ADuCM360BCPZ128,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,位号：U8。完整型号ADuCM360BCPZ128；底部焊盘不可省略；可单独委托芯片焊接后再自行完成其余器件。,Analog Devices,ADuCM360BCPZ128,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E060,CN0359 Rev.A主板,U9,原板器件 ADA4077-2ARZ,1,1,2,只/件,ADA4077-2ARZ,SOIC127P600X175-8M,ADA4077-2ARZ,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,ADI中国人民币商城优先；贸泽中国/得捷中国按完整MPN询价并核对来源,"https://www.analog.com/cn/lp/002/promotion/china-eshop.html
+https://www.mouser.cn/
+https://www.digikey.cn/",ADA4077-2ARZ,https://s.taobao.com/search?q=ADA4077-2ARZ,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,位号：U9。原ADI Rev.A BOM原件保留。,Analog Devices,ADA4077-2ARZ,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E061,CN0359 Rev.A主板,"U10, U13, U16, U21",原板器件 ADA4638-1ARZ,4,1,5,只/件,ADA4638-1ARZ,SOIC127P600X175-8M,ADA4638-1ARZ,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,ADI中国人民币商城优先；贸泽中国/得捷中国按完整MPN询价并核对来源,"https://www.analog.com/cn/lp/002/promotion/china-eshop.html
+https://www.mouser.cn/
+https://www.digikey.cn/",ADA4638-1ARZ,https://s.taobao.com/search?q=ADA4638-1ARZ,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,"位号：U10, U13, U16, U21。原ADI Rev.A BOM原件保留。",Analog Devices,ADA4638-1ARZ,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E062,CN0359 Rev.A主板,U11,原板器件 ADG1419BRMZ,1,1,2,只/件,ADG1419BRMZ,SOP65P490X110-8M,ADG1419BRMZ,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,ADI中国人民币商城优先；贸泽中国/得捷中国按完整MPN询价并核对来源,"https://www.analog.com/cn/lp/002/promotion/china-eshop.html
+https://www.mouser.cn/
+https://www.digikey.cn/",ADG1419BRMZ,https://s.taobao.com/search?q=ADG1419BRMZ,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,位号：U11。原ADI Rev.A BOM原件保留。,Analog Devices,ADG1419BRMZ,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E063,CN0359 Rev.A主板,"U12, U20",原板器件 ADA4528-2ARMZ,2,1,3,只/件,ADA4528-2ARMZ,SOP65P490X110-8M,ADA4528-2ARMZ,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,ADI中国人民币商城优先；贸泽中国/得捷中国按完整MPN询价并核对来源,"https://www.analog.com/cn/lp/002/promotion/china-eshop.html
+https://www.mouser.cn/
+https://www.digikey.cn/",ADA4528-2ARMZ,https://s.taobao.com/search?q=ADA4528-2ARMZ,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,"位号：U12, U20。原ADI Rev.A BOM原件保留。",Analog Devices,ADA4528-2ARMZ,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E064,CN0359 Rev.A主板,U14,原板器件 ADA4000-1ARZ,1,1,2,只/件,ADA4000-1ARZ,SOIC127P600X175-8M,ADA4000-1ARZ,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,ADI中国人民币商城优先；贸泽中国/得捷中国按完整MPN询价并核对来源,"https://www.analog.com/cn/lp/002/promotion/china-eshop.html
+https://www.mouser.cn/
+https://www.digikey.cn/",ADA4000-1ARZ,https://s.taobao.com/search?q=ADA4000-1ARZ,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,位号：U14。原ADI Rev.A BOM原件保留。,Analog Devices,ADA4000-1ARZ,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E065,CN0359 Rev.A主板,"U15, U18",原板器件 AD8253ARMZ,2,1,3,只/件,AD8253ARMZ,SOP50P490X95-10M,AD8253ARMZ,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,ADI中国人民币商城优先；贸泽中国/得捷中国按完整MPN询价并核对来源,"https://www.analog.com/cn/lp/002/promotion/china-eshop.html
+https://www.mouser.cn/
+https://www.digikey.cn/",AD8253ARMZ,https://s.taobao.com/search?q=AD8253ARMZ,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,"位号：U15, U18。原ADI Rev.A BOM原件保留。",Analog Devices,AD8253ARMZ,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E066,CN0359 Rev.A主板,U17,原板器件 ADG1211YRUZ,1,1,2,只/件,ADG1211YRUZ,SOP65P640X120-16M,ADG1211YRUZ,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,ADI中国人民币商城优先；贸泽中国/得捷中国按完整MPN询价并核对来源,"https://www.analog.com/cn/lp/002/promotion/china-eshop.html
+https://www.mouser.cn/
+https://www.digikey.cn/",ADG1211YRUZ,https://s.taobao.com/search?q=ADG1211YRUZ,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,位号：U17。原ADI Rev.A BOM原件保留。,Analog Devices,ADG1211YRUZ,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E067,CN0359 Rev.A主板,U19,原板器件 ADA4627-1ARZ,1,1,2,只/件,ADA4627-1ARZ,SOIC127P600X175-8M,ADA4627-1ARZ,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,ADI中国人民币商城优先；贸泽中国/得捷中国按完整MPN询价并核对来源,"https://www.analog.com/cn/lp/002/promotion/china-eshop.html
+https://www.mouser.cn/
+https://www.digikey.cn/",ADA4627-1ARZ,https://s.taobao.com/search?q=ADA4627-1ARZ,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,位号：U19。原ADI Rev.A BOM原件保留。,Analog Devices,ADA4627-1ARZ,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E068,CN0359 Rev.A主板,U22,原板器件 AD8542ARZ,1,1,2,只/件,AD8542ARZ,SOIC127P600X175-8M,AD8542ARZ,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,必买（已有可复用）,ADI中国人民币商城优先；贸泽中国/得捷中国按完整MPN询价并核对来源,"https://www.analog.com/cn/lp/002/promotion/china-eshop.html
+https://www.mouser.cn/
+https://www.digikey.cn/",AD8542ARZ,https://s.taobao.com/search?q=AD8542ARZ,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,位号：U22。原ADI Rev.A BOM原件保留。,Analog Devices,AD8542ARZ,sources/official_bom_reva_expanded.csv；官方Rev.A完整原理图
+E069,独立3.3V电源子板,U1,原板器件 ADP3338AKCZ-3.3,1,1,2,只/件,ADP3338AKCZ-3.3,Package_TO_SOT_SMD:SOT-223-3_TabPin2,ADP3338AKCZ-3.3RL7,3.3V固定输出，三脚SOT-223；1=GND、2及TAB=OUT、3=IN。小板按200mA连续负载设计目标，非1A已验证输出。,必买（已有可复用）,ADI中国人民币商城优先；贸泽中国/得捷中国,"https://www.analog.com/cn/lp/002/promotion/china-eshop.html
+https://www.mouser.cn/
+https://www.digikey.cn/",ADP3338AKCZ-3.3RL7,https://s.taobao.com/search?q=ADP3338AKCZ-3.3RL7,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,位号：U1。子板尺寸35×35mm；JP1/JP2另各配1只跳帽，U1散热片属于3.3V，不能接地壳。,Analog Devices,ADP3338AKCZ-3.3RL7,power_adapter/power_adapter_netlist.json；ADP3338官方数据手册
+E070,独立3.3V电源子板,C1,电容 10uF 25V X5R,1,9,10,只/件,10uF 25V X5R,Capacitor_SMD:C_0805_2012Metric,GRM21BR61E106KA73L,10 µF，0805，25 V，X5R，±10%；输入5.1 V及输出3.3 V偏压/温度下有效容量均≥1 µF。 0805 MLCC; effective capacitance >= 1 uF at 5.1 V,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",GRM21BR61E106KA73L,https://s.taobao.com/search?q=GRM21BR61E106KA73L,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,位号：C1。子板尺寸35×35mm；JP1/JP2另各配1只跳帽，U1散热片属于3.3V，不能接地壳。,按原件或经核对的同封装件,GRM21BR61E106KA73L,power_adapter/power_adapter_netlist.json；ADP3338官方数据手册
+E071,独立3.3V电源子板,C2,电容 10uF 25V X5R,1,9,10,只/件,10uF 25V X5R,Capacitor_SMD:C_0805_2012Metric,GRM21BR61E106KA73L,10 µF，0805，25 V，X5R，±10%；输入5.1 V及输出3.3 V偏压/温度下有效容量均≥1 µF。 0805 MLCC; effective capacitance >= 1 uF at 3.3 V,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",GRM21BR61E106KA73L,https://s.taobao.com/search?q=GRM21BR61E106KA73L,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,位号：C2。子板尺寸35×35mm；JP1/JP2另各配1只跳帽，U1散热片属于3.3V，不能接地壳。,按原件或经核对的同封装件,GRM21BR61E106KA73L,power_adapter/power_adapter_netlist.json；ADP3338官方数据手册
+E072,独立3.3V电源子板,J1,原板器件 5V_POST_U3_IN,1,1,2,只/件,5V_POST_U3_IN,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal","MKDS 1,5/2-5,08","2位5.08mm卧式接线端子；外形、插针孔与Phoenix MKDS 1,5/2-5,08焊盘一致。 MKDS 1,5/2-5,08=Phoenix订货系列；5.08 mm间距、孔径、进线方向须一致。",必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/","MKDS 1,5/2-5,08",https://s.taobao.com/search?q=MKDS%201%2C5/2-5%2C08,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,位号：J1。子板尺寸35×35mm；JP1/JP2另各配1只跳帽，U1散热片属于3.3V，不能接地壳。,按原件或经核对的同封装件,"MKDS 1,5/2-5,08",power_adapter/power_adapter_netlist.json；ADP3338官方数据手册
+E073,独立3.3V电源子板,J2,原板器件 3V3_TO_L5_PIN1,1,1,2,只/件,3V3_TO_L5_PIN1,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal","MKDS 1,5/2-5,08","2位5.08mm卧式接线端子；外形、插针孔与Phoenix MKDS 1,5/2-5,08焊盘一致。 MKDS 1,5/2-5,08=Phoenix订货系列；5.08 mm间距、孔径、进线方向须一致。",必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/","MKDS 1,5/2-5,08",https://s.taobao.com/search?q=MKDS%201%2C5/2-5%2C08,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,位号：J2。子板尺寸35×35mm；JP1/JP2另各配1只跳帽，U1散热片属于3.3V，不能接地壳。,按原件或经核对的同封装件,"MKDS 1,5/2-5,08",power_adapter/power_adapter_netlist.json；ADP3338官方数据手册
+E074,独立3.3V电源子板,JP1,原板器件 INPUT_ENABLE,1,1,2,只/件,INPUT_ENABLE,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,1x02 P2.54mm straight header + removable shunt,2.54mm间距2针直排针+可拆短路帽；JP1隔离输入、JP2隔离输出/测输出电流。 每个采购子项含2针直排针及1只可拆短路帽，不再重复买。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",1x02 P2.54mm straight header + removable shunt,https://s.taobao.com/search?q=1x02%20P2.54mm%20straight%20header%20%2B%20removable%20shunt,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,位号：JP1。子板尺寸35×35mm；JP1/JP2另各配1只跳帽，U1散热片属于3.3V，不能接地壳。,按原件或经核对的同封装件,1x02 P2.54mm straight header + removable shunt,power_adapter/power_adapter_netlist.json；ADP3338官方数据手册
+E075,独立3.3V电源子板,JP2,原板器件 OUTPUT_ENABLE,1,1,2,只/件,OUTPUT_ENABLE,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,1x02 P2.54mm straight header + removable shunt,2.54mm间距2针直排针+可拆短路帽；JP1隔离输入、JP2隔离输出/测输出电流。 每个采购子项含2针直排针及1只可拆短路帽，不再重复买。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",1x02 P2.54mm straight header + removable shunt,https://s.taobao.com/search?q=1x02%20P2.54mm%20straight%20header%20%2B%20removable%20shunt,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,位号：JP2。子板尺寸35×35mm；JP1/JP2另各配1只跳帽，U1散热片属于3.3V，不能接地壳。,按原件或经核对的同封装件,1x02 P2.54mm straight header + removable shunt,power_adapter/power_adapter_netlist.json；ADP3338官方数据手册
+E076,独立3.3V电源子板,"H1, H2",原板器件 M3_NPTH,2,1,3,只/件,M3_NPTH,MountingHole:MountingHole_3.2mm_M3,M3 nylon standoff,M3尼龙支撑柱，配3.2mm NPTH安装孔；必须绝缘固定，子板TAB/大铜面是3.3V输出。,必买（已有可复用）,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",M3 nylon standoff,https://s.taobao.com/search?q=M3%20nylon%20standoff,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,"位号：H1, H2。子板尺寸35×35mm；JP1/JP2另各配1只跳帽，U1散热片属于3.3V，不能接地壳。",按原件或经核对的同封装件,M3 nylon standoff,power_adapter/power_adapter_netlist.json；ADP3338官方数据手册

@@ -1,0 +1,300 @@
+[
+  {
+    "source": "channel_checks.json",
+    "results": [
+      {
+        "name": "ADI",
+        "url": "https://www.analog.com/cn/buy.html",
+        "final_url": "https://www.analog.com/cn/lp/002/promotion/china-eshop.html",
+        "http": 200,
+        "title": "ADI中国在线商城 | ADI 公司",
+        "checked": "2026-10-20"
+      },
+      {
+        "name": "Mouser中国",
+        "url": "https://www.mouser.cn/",
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+        "checked": "2026-10-20"
+      },
+      {
+        "name": "DigiKey中国",
+        "url": "https://www.digikey.cn/",
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+        "checked": "2026-10-20"
+      },
+      {
+        "name": "贸泽",
+        "url": "https://www.mouser.cn/c/?q=ADuCM360BCPZ128",
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+        "checked": "2026-10-20"
+      },
+      {
+        "name": "立创商城",
+        "url": "https://www.szlcsc.com/",
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+        "checked": "2026-10-20"
+      },
+      {
+        "name": "嘉立创PCB",
+        "url": "https://www.jlc.com/",
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+        "checked": "2026-10-20"
+      },
+      {
+        "name": "捷多邦",
+        "url": "https://www.jdbpcb.com/",
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+        "checked": "2026-10-20"
+      },
+      {
+        "name": "标准物质平台",
+        "url": "https://www.ncrm.org.cn/",
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+        "checked": "2026-10-20"
+      },
+      {
+        "name": "中国计量院",
+        "url": "https://www.nim.ac.cn/",
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+        "checked": "2026-10-20"
+      },
+      {
+        "name": "雷磁",
+        "url": "https://www.lei-ci.com/",
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+        "checked": "2026-10-20"
+      },
+      {
+        "name": "仪电",
+        "url": "https://www.inesa-instrument.com/",
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+        "checked": "2026-10-20"
+      },
+      {
+        "name": "梅特勒",
+        "url": "https://www.mt.com/cn/zh/home.html",
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+        "checked": "2026-10-20"
+      },
+      {
+        "name": "阿拉丁",
+        "url": "https://www.aladdin-e.com/zh_cn/",
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+        "checked": "2026-10-20"
+      },
+      {
+        "name": "麦克林",
+        "url": "https://www.macklin.cn/",
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+        "checked": "2026-10-20"
+      },
+      {
+        "name": "JULABO",
+        "url": "https://www.julabo.com/zh",
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+        "checked": "2026-10-20"
+      },
+      {
+        "name": "IKA",
+        "url": "https://www.ika.com/zh",
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+        "checked": "2026-10-20"
+      },
+      {
+        "name": "宁波新芝",
+        "url": "https://www.scientz.com/",
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+        "checked": "2026-10-20"
+      },
+      {
+        "name": "普源",
+        "url": "https://www.rigol.com/",
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+        "checked": "2026-10-20"
+      },
+      {
+        "name": "鼎阳",
+        "url": "https://www.siglent.com/",
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+        "checked": "2026-10-20"
+      },
+      {
+        "name": "SEGGER",
+        "url": "https://www.segger.com/products/debug-probes/j-link/",
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+        "checked": "2026-10-20"
+      },
+      {
+        "name": "中国合格评定",
+        "url": "https://www.cnas.org.cn/",
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+        "checked": "2026-10-20"
+      },
+      {
+        "name": "快克",
+        "url": "https://www.quick-global.com/",
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+        "checked": "2026-10-20"
+      },
+      {
+        "name": "安泰信",
+        "url": "https://www.atten.com.cn/",
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+        "checked": "2026-10-20"
+      },
+      {
+        "name": "Wurth",
+        "url": "https://www.we-online.com/",
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+        "checked": "2026-10-20"
+      },
+      {
+        "name": "VPG箔电阻",
+        "url": "https://foilresistors.com/",
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+        "checked": "2026-10-20"
+      }
+    ]
+  },
+  {
+    "source": "research_sources/channel_checks.json",
+    "results": {
+      "checked_date": "2026-10-20",
+      "checks": [
+        {
+          "id": "adi_aducm360",
+          "requested_url": "https://www.analog.com/cn/products/aducm360.html",
+          "status": 200,
+          "final_url": "https://www.analog.com/cn/products/aducm360.html",
+          "bytes": 385821,
+          "content_type": "text/html; charset=utf-8",
+          "sha256": "257e18df263f94f9de647f5f41b8e64edadda956a2697d42b6936d4d4ea97ba9",
+          "title": "ADUCM360 数据手册和产品信息 | ADI 公司"
+        },
+        {
+          "id": "adi_adp3338",
+          "requested_url": "https://www.analog.com/cn/products/adp3338.html",
+          "status": 200,
+          "final_url": "https://www.analog.com/cn/products/adp3338.html",
+          "bytes": 216873,
+          "content_type": "text/html; charset=utf-8",
+          "sha256": "0936921377b34739dbc4b35637ad33320c00b971464d6b285a5bdfdd03f4ac08",
+          "title": "ADP3338 数据手册和产品信息 | ADI 公司"
+        },
+        {
+          "id": "adi_sales",
+          "requested_url": "https://www.analog.com/en/about-adi/sales-and-distribution.html",
+          "error": "HTTPError: HTTP Error 404: Not Found"
+        },
+        {
+          "id": "digikey_cn",
+          "requested_url": "https://www.digikey.cn/",
+          "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+        },
+        {
+          "id": "digikey_adi",
+          "requested_url": "https://www.digikey.cn/zh/supplier-centers/analog-devices",
+          "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+        },
+        {
+          "id": "mouser_cn",
+          "requested_url": "https://www.mouser.cn/",
+          "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+        },
+        {
+          "id": "mouser_adi",
+          "requested_url": "https://www.mouser.cn/manufacturer/analog-devices-inc/",
+          "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+        },
+        {
+          "id": "lcsc_cn",
+          "requested_url": "https://www.szlcsc.com/",
+          "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+        },
+        {
+          "id": "lcsc_global",
+          "requested_url": "https://www.lcsc.com/",
+          "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+        },
+        {
+          "id": "jlc_pcb",
+          "requested_url": "https://www.jlc.com/",
+          "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+        },
+        {
+          "id": "hqpcb",
+          "requested_url": "https://www.hqpcb.com/",
+          "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+        },
+        {
+          "id": "jdbpcb",
+          "requested_url": "https://www.jdbpcb.com/",
+          "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+        },
+        {
+          "id": "wurth_68612214122",
+          "requested_url": "https://www.we-online.com/en/components/products/FFC_FPC_CONNECTOR_1_0_SMT_HORIZONTAL_BOTTOM_CONTACT_68612214122",
+          "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+        },
+        {
+          "id": "bourns_pec12r_pdf",
+          "requested_url": "https://www.bourns.com/docs/product-datasheets/PEC12R.pdf",
+          "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+        },
+        {
+          "id": "mentor",
+          "requested_url": "https://www.mentor.de.com/",
+          "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+        },
+        {
+          "id": "hakko_china",
+          "requested_url": "https://www.hakko.com.cn/",
+          "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+        },
+        {
+          "id": "quick_china",
+          "requested_url": "https://www.quickchina.com/",
+          "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+        },
+        {
+          "id": "atten_china",
+          "requested_url": "https://www.atten.com.cn/",
+          "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+        }
+      ]
+    }
+  },
+  {
+    "source": "research_sources/authorized_channel_checks.json",
+    "results": [
+      {
+        "id": "cecport_adi",
+        "requested_url": "https://ceaci.cecport.com/brand/ADI",
+        "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+      },
+      {
+        "id": "mouser_adi_official_link",
+        "requested_url": "https://www.mouser.com/manufacturer/analog-devices/",
+        "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+      },
+      {
+        "id": "digikey_adi_official_link",
+        "requested_url": "https://www.digikey.com/en/supplier-centers/analog-devices",
+        "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+      },
+      {
+        "id": "farnell_adi_official_link",
+        "requested_url": "https://www.farnell.com/analog-devices/",
+        "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+      },
+      {
+        "id": "adi_authorized_cn",
+        "requested_url": "https://www.analog.com/cn/support/find-sale-office-distributor.html",
+        "status": 200,
+        "url": "https://www.analog.com/cn/support/find-sale-office-distributor.html",
+        "bytes": 44721,
+        "title": "联系当地办事处与代理商 | ADI 公司"
+      }
+    ]
+  }
+]

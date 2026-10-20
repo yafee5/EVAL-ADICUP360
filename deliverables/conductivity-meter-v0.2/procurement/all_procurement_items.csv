@@ -1,0 +1,350 @@
+﻿ID,类别,项目/品名,采购等级,单机/试验用量,建议备件/余量,建议采购量,单位,型号或选型方向,必须满足的规格,大陆采购渠道,官网/渠道入口,淘宝搜索词,淘宝搜索入口,下单/到货核对,采购阶段,备注,询价状态
+E001,主板电子料,电容 10u,必买（已有可复用）,8,4,12,只/件,GRM21BR61E106KA73,10 µF，0805，25 V，X5R，±10%；原BOM省略包装后缀，供应商确认完整订货码与偏压曲线。 保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",GRM21BR61E106KA73,https://s.taobao.com/search?q=GRM21BR61E106KA73,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,"位号：C1, C9, C14, C18, C29, C30, C31, C81。原ADI Rev.A BOM原件保留。",待询价；未确认库存/价格
+E002,主板电子料,电容 1u,必买（已有可复用）,33,14,47,只/件,GCM21BR71E105KA56,1 µF，0805，25 V，X7R，±10%；确认完整包装后缀。 保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",GCM21BR71E105KA56,https://s.taobao.com/search?q=GCM21BR71E105KA56,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,"位号：C2, C3, C4, C5, C6, C7, C8, C46, C47, C48, C49, C51, C53, C58, C59, C61, C62, C69, C70, C71, C74, C77, C80, C82, C86, C88, C89, C90, C91, C94, C98, C99, C100。原ADI Rev.A BOM原件保留。",待询价；未确认库存/价格
+E003,主板电子料,电容 47u,必买（已有可复用）,1,9,10,只/件,C2012X5R1A476M125AC,47 µF，0805，10 V，X5R，±20%；不可用相同容量的大封装硬贴。 保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",C2012X5R1A476M125AC,https://s.taobao.com/search?q=C2012X5R1A476M125AC,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,位号：C10。原ADI Rev.A BOM原件保留。,待询价；未确认库存/价格
+E004,主板电子料,电容 33n,必买（已有可复用）,1,9,10,只/件,CC0805KRX7R9BB333,33 nF，0805，50 V，X7R，±10%。 保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",CC0805KRX7R9BB333,https://s.taobao.com/search?q=CC0805KRX7R9BB333,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,位号：C13。原ADI Rev.A BOM原件保留。,待询价；未确认库存/价格
+E005,主板电子料,电容 56p,必买（已有可复用）,1,9,10,只/件,C0805C560J5GACTU,56 pF，0805，50 V，C0G/NP0，±5%。 保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",C0805C560J5GACTU,https://s.taobao.com/search?q=C0805C560J5GACTU,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,位号：C16。原ADI Rev.A BOM原件保留。,待询价；未确认库存/价格
+E006,主板电子料,电容 100n,必买（已有可复用）,19,8,27,只/件,CC0805KRX7R8BB104,100 nF，0805，25 V，X7R，±10%。 保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",CC0805KRX7R8BB104,https://s.taobao.com/search?q=CC0805KRX7R8BB104,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,"位号：C11, C12, C15, C19, C20, C22, C25, C27, C28, C35, C36, C37, C38, C39, C40, C41, C43, C57, C83。原ADI Rev.A BOM原件保留。",待询价；未确认库存/价格
+E007,主板电子料,电容 22u,必买（已有可复用）,3,7,10,只/件,C2012JB1E226M125AC,22 µF，0805，25 V；保持该原厂JB介质/容量/额定电压，按原厂数据表核对偏压容量。 保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",C2012JB1E226M125AC,https://s.taobao.com/search?q=C2012JB1E226M125AC,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,"位号：C21, C23, C26。原ADI Rev.A BOM原件保留。",待询价；未确认库存/价格
+E008,主板电子料,电容 3.3n,必买（已有可复用）,1,9,10,只/件,C2012C0G1H332J,3.3 nF，0805，50 V，C0G，±5%。 保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",C2012C0G1H332J,https://s.taobao.com/search?q=C2012C0G1H332J,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,位号：C24。原ADI Rev.A BOM原件保留。,待询价；未确认库存/价格
+E009,主板电子料,电容 2.2u,必买（已有可复用）,2,8,10,只/件,C2012X7R1E225K,2.2 µF，0805，25 V，X7R，±10%。 保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",C2012X7R1E225K,https://s.taobao.com/search?q=C2012X7R1E225K,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,"位号：C33, C34。原ADI Rev.A BOM原件保留。",待询价；未确认库存/价格
+E010,主板电子料,电容 470n,必买（已有可复用）,3,7,10,只/件,X7R0805CTTD474J,470 nF，0805，X7R，±5%；额定电压按原厂料号核实，原电路±15 V供电处至少25 V。 保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",X7R0805CTTD474J,https://s.taobao.com/search?q=X7R0805CTTD474J,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,"位号：C42, C44, C56。原ADI Rev.A BOM原件保留。",待询价；未确认库存/价格
+E011,主板电子料,电容 1n,必买（已有可复用）,10,4,14,只/件,ECJ2VG1H102J,1 nF，0805，50 V，±5%；原厂介质代码按数据表核对，替代优选C0G/NP0。 保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",ECJ2VG1H102J,https://s.taobao.com/search?q=ECJ2VG1H102J,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,"位号：C45, C54, C60, C67, C68, C76, C78, C87, C95, C97。原ADI Rev.A BOM原件保留。",待询价；未确认库存/价格
+E012,主板电子料,电容 10n,必买（已有可复用）,4,6,10,只/件,ECU-V1H103KBG,10 nF，0805，50 V，±10%；替代保留原值/耐压，优先C0G可得件。 保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",ECU-V1H103KBG,https://s.taobao.com/search?q=ECU-V1H103KBG,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,"位号：C52, C63, C64, C72。原ADI Rev.A BOM原件保留。",待询价；未确认库存/价格
+E013,主板电子料,电容 820p,必买（已有可复用）,4,6,10,只/件,CC0805KRX7R9BB821,820 pF，0805，50 V，X7R，±10%；可选升级C0G/NP0 ±5%或更好，四只同规格。 保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",CC0805KRX7R9BB821,https://s.taobao.com/search?q=CC0805KRX7R9BB821,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,"位号：C55, C75, C85, C96。原ADI Rev.A BOM原件保留。",待询价；未确认库存/价格
+E014,主板电子料,电容 470p,必买（已有可复用）,2,8,10,只/件,0805CG471J9B200,470 pF，0805，C0G，±5%；原厂耐压代码须核对，采购至少25 V。 保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",0805CG471J9B200,https://s.taobao.com/search?q=0805CG471J9B200,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,"位号：C79, C92。原ADI Rev.A BOM原件保留。",待询价；未确认库存/价格
+E015,主板电子料,电容 4.7u,必买（已有可复用）,4,6,10,只/件,GRM21BR61E475KA12L,4.7 µF，0805，25 V，X5R，±10%；保持原料，不能买大体积薄膜电容替换现有焊盘。 保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",GRM21BR61E475KA12L,https://s.taobao.com/search?q=GRM21BR61E475KA12L,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,"位号：C50, C73, C84, C93。采样保持4.7µF，保持原件及其额定电压/介质；不得为滤波或冗余随意加大/减小。",待询价；未确认库存/价格
+E016,主板电子料,原板器件 BAT54S,必买（已有可复用）,2,8,10,只/件,BAT54S,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",BAT54S,https://s.taobao.com/search?q=BAT54S,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,"位号：D1, D5。原ADI Rev.A BOM原件保留。",待询价；未确认库存/价格
+E017,主板电子料,原板器件 1N4148W,必买（已有可复用）,2,8,10,只/件,1N4148W,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",1N4148W,https://s.taobao.com/search?q=1N4148W,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,"位号：D2, D4。原ADI Rev.A BOM原件保留。",待询价；未确认库存/价格
+E018,主板电子料,原板器件 MJ-179PH,必买（已有可复用）,1,1,2,只/件,MJ-179PH,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。 核对焊盘、插针外形及配套插头内外径；外接+5.0 V，中心正负以实测主板针脚确认。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",MJ-179PH,https://s.taobao.com/search?q=MJ-179PH,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,位号：J1。原ADI Rev.A BOM原件保留。,待询价；未确认库存/价格
+E019,主板电子料,原板器件 OSTTC032162,必买（已有可复用）,1,1,2,只/件,OSTTC032162,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",OSTTC032162,https://s.taobao.com/search?q=OSTTC032162,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,位号：J2。原ADI Rev.A BOM原件保留。,待询价；未确认库存/价格
+E020,主板电子料,原板器件 OSTTC042162,必买（已有可复用）,1,1,2,只/件,OSTTC042162,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",OSTTC042162,https://s.taobao.com/search?q=OSTTC042162,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,位号：J3。原ADI Rev.A BOM原件保留。,待询价；未确认库存/价格
+E021,主板电子料,原板器件 302-S201,必买（已有可复用）,1,1,2,只/件,302-S201,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",302-S201,https://s.taobao.com/search?q=302-S201,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,位号：J4。原ADI Rev.A BOM原件保留。,待询价；未确认库存/价格
+E022,主板电子料,原板器件 OSTTC052162,必买（已有可复用）,1,1,2,只/件,OSTTC052162,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",OSTTC052162,https://s.taobao.com/search?q=OSTTC052162,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,位号：J5。原ADI Rev.A BOM原件保留。,待询价；未确认库存/价格
+E023,主板电子料,原板器件 22u,必买（已有可复用）,1,1,2,只/件,SLF6045T-220M1R1-3PF,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",SLF6045T-220M1R1-3PF,https://s.taobao.com/search?q=SLF6045T-220M1R1-3PF,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,位号：L1。原ADI Rev.A BOM原件保留。,待询价；未确认库存/价格
+E024,主板电子料,原板器件 BNX025H01,必买（已有可复用）,3,1,4,只/件,BNX025H01,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",BNX025H01,https://s.taobao.com/search?q=BNX025H01,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,"位号：L3, L4, L5。原ADI Rev.A BOM原件保留。",待询价；未确认库存/价格
+E025,主板电子料,原板器件 FMMT718,必买（已有可复用）,1,9,10,只/件,FMMT718,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",FMMT718,https://s.taobao.com/search?q=FMMT718,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,位号：Q1。原ADI Rev.A BOM原件保留。,待询价；未确认库存/价格
+E026,主板电子料,电阻 47k,必买（已有可复用）,2,8,10,只/件,RC0805FR-0747KL,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",RC0805FR-0747KL,https://s.taobao.com/search?q=RC0805FR-0747KL,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,"位号：R1, R17。原ADI Rev.A BOM原件保留。",待询价；未确认库存/价格
+E027,主板电子料,电阻 2.40k,必买（已有可复用）,1,9,10,只/件,ERA-6YEB242V,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",ERA-6YEB242V,https://s.taobao.com/search?q=ERA-6YEB242V,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,位号：R2。原ADI Rev.A BOM原件保留。,待询价；未确认库存/价格
+E028,主板电子料,电阻 18k,必买（已有可复用）,1,9,10,只/件,RC0805JR-0718KL,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",RC0805JR-0718KL,https://s.taobao.com/search?q=RC0805JR-0718KL,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,位号：R3。原ADI Rev.A BOM原件保留。,待询价；未确认库存/价格
+E029,主板电子料,电阻 200k,必买（已有可复用）,1,9,10,只/件,RK73H2ATTDD2003F,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",RK73H2ATTDD2003F,https://s.taobao.com/search?q=RK73H2ATTDD2003F,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,位号：R4。原ADI Rev.A BOM原件保留。,待询价；未确认库存/价格
+E030,主板电子料,电阻 7.50k,必买（已有可复用）,1,9,10,只/件,ERA-6AEB752V,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",ERA-6AEB752V,https://s.taobao.com/search?q=ERA-6AEB752V,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,位号：R5。原ADI Rev.A BOM原件保留。,待询价；未确认库存/价格
+E031,主板电子料,电阻 7.50k,精密升级，先询价,4,4,8,只/件,参数选型/询价，未指定已核实MPN,0805；保持7.50k原值；初始容差≤0.01%；TCR优选≤2ppm/°C，≤5ppm替代须验证温漂；额定功率≥0.1W；优先同系列/同批次并记录实测匹配。,贸泽中国/得捷中国向Vishay、VPG或Susumu精密系列询价；须提供完整MPN和数据表,"https://www.mouser.cn/
+https://www.digikey.cn/",7.50k 0805 0.01% 2ppm 精密电阻,https://s.taobao.com/search?q=7.50k%200805%200.01%25%202ppm%20%E7%B2%BE%E5%AF%86%E7%94%B5%E9%98%BB,付款前须拿到完整MPN及原厂数据表，逐项确认阻值、0805、容差和TCR；原BOM MPN不能作为升级件替身。,A 焊接前,"位号：R19, R29, R37, R48。优选升级：四路衰减比例电阻，数值和0805焊盘保持；原MPN不被声称满足新精度/TCR要求。若降级使用原BOM，必须另记录并重新核算/验证误差预算。",待询价；未确认库存/价格
+E032,主板电子料,电阻 6.8,必买（已有可复用）,2,8,10,只/件,RC0805JR-076R8L,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",RC0805JR-076R8L,https://s.taobao.com/search?q=RC0805JR-076R8L,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,"位号：R6, R9。原ADI Rev.A BOM原件保留。",待询价；未确认库存/价格
+E033,主板电子料,电阻 36k,必买（已有可复用）,1,9,10,只/件,ERJ-6ENF3602V,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",ERJ-6ENF3602V,https://s.taobao.com/search?q=ERJ-6ENF3602V,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,位号：R7。原ADI Rev.A BOM原件保留。,待询价；未确认库存/价格
+E034,主板电子料,电阻 5.1k,必买（已有可复用）,1,9,10,只/件,RC0805JR-075K1L,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",RC0805JR-075K1L,https://s.taobao.com/search?q=RC0805JR-075K1L,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,位号：R8。原ADI Rev.A BOM原件保留。,待询价；未确认库存/价格
+E035,主板电子料,电阻 10k,必买（已有可复用）,1,9,10,只/件,CRCW080510K0JNEA,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",CRCW080510K0JNEA,https://s.taobao.com/search?q=CRCW080510K0JNEA,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,位号：R10。原ADI Rev.A BOM原件保留。,待询价；未确认库存/价格
+E036,主板电子料,电阻 10k,必装；升级规格见说明,2,8,10,只/件,原MPN或经核实的同封装1%备选,0805；10kΩ；原件可用，建议两只均升级为≤1%、同系列、TCR≤100ppm/°C，功率≥0.1W。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",10k 0805 1% 100ppm 电阻,https://s.taobao.com/search?q=10k%200805%201%25%20100ppm%20%E7%94%B5%E9%98%BB,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,"位号：R49, R50。可选VMID分压余量升级；原MPN保留，但原件不冒充1%件。两只同规格采购，装配方案和VMID实测写入记录。",待询价；未确认库存/价格
+E037,主板电子料,电阻 36,必买（已有可复用）,1,9,10,只/件,CRCW080536R0FKEA,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",CRCW080536R0FKEA,https://s.taobao.com/search?q=CRCW080536R0FKEA,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,位号：R12。原ADI Rev.A BOM原件保留。,待询价；未确认库存/价格
+E038,主板电子料,电阻 4.99kΩ,必买/必改，先询价,1,2,3,只/件,参数选型/询价，未指定已核实MPN,0805；4.99kΩ；初始容差≤0.01%；TCR绝对值≤2ppm/°C；额定功率≥0.1W；索取准确值、TCR及批次记录。,贸泽中国/得捷中国向Vishay、VPG或Susumu精密系列询价；须提供完整MPN和数据表,"https://www.mouser.cn/
+https://www.digikey.cn/",4.99kΩ 0805 0.01% 2ppm 精密电阻,https://s.taobao.com/search?q=4.99k%CE%A9%200805%200.01%25%202ppm%20%E7%B2%BE%E5%AF%86%E7%94%B5%E9%98%BB,付款前须拿到完整MPN及原厂数据表，逐项确认阻值、0805、容差和TCR；原BOM MPN不能作为升级件替身。,A 焊接前,位号：R13。必改：原1.50k/原MPN不满足本版改值与升级规格，禁止按原MPN下单冒充升级件；配freshwater_lowheat固件及200µA RTD激励。,待询价；未确认库存/价格
+E039,主板电子料,电阻 110.0k,必买（已有可复用）,1,9,10,只/件,ERA-6AEB114V,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",ERA-6AEB114V,https://s.taobao.com/search?q=ERA-6AEB114V,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,位号：R14。原ADI Rev.A BOM原件保留。,待询价；未确认库存/价格
+E040,主板电子料,电阻 15.0k,必买（已有可复用）,1,9,10,只/件,ERA-6YEB153V,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",ERA-6YEB153V,https://s.taobao.com/search?q=ERA-6YEB153V,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,位号：R15。原ADI Rev.A BOM原件保留。,待询价；未确认库存/价格
+E041,主板电子料,电阻 13k,必买（已有可复用）,2,8,10,只/件,ERJ-6ENF1302V,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",ERJ-6ENF1302V,https://s.taobao.com/search?q=ERJ-6ENF1302V,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,"位号：R16, R22。原ADI Rev.A BOM原件保留。",待询价；未确认库存/价格
+E042,主板电子料,电阻 2.7k,必买（已有可复用）,1,9,10,只/件,MC 0.1W 0805 1% 2K7.,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",MC 0.1W 0805 1% 2K7.,https://s.taobao.com/search?q=MC%200.1W%200805%201%25%202K7.,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,位号：R18。原ADI Rev.A BOM原件保留。,待询价；未确认库存/价格
+E043,主板电子料,电阻 24,必买（已有可复用）,4,6,10,只/件,MCR10EZHF24R0,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",MCR10EZHF24R0,https://s.taobao.com/search?q=MCR10EZHF24R0,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,"位号：R21, R32, R39, R53。保持完整官方原图/BOM的24Ω；不要按文章简图误买240Ω。",待询价；未确认库存/价格
+E044,主板电子料,电阻 1k,必买（已有可复用）,11,5,16,只/件,RC0805JR-071KL,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",RC0805JR-071KL,https://s.taobao.com/search?q=RC0805JR-071KL,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,"位号：R11, R23, R25, R26, R28, R30, R40, R43, R44, R46, R51。原ADI Rev.A BOM原件保留。",待询价；未确认库存/价格
+E045,主板电子料,电阻 27.0k,必装；升级规格见说明,2,2,4,只/件,参数选型/询价，未指定已核实MPN,0805；27.0kΩ；两只同系列，≤0.01%，TCR优选≤2ppm/°C、最多5ppm/°C并实测匹配；保持原尺寸和阻值。,贸泽中国/得捷中国向Vishay、VPG或Susumu精密系列询价；须提供完整MPN和数据表,"https://www.mouser.cn/
+https://www.digikey.cn/",27.0k 0805 0.01% 2ppm 精密电阻,https://s.taobao.com/search?q=27.0k%200805%200.01%25%202ppm%20%E7%B2%BE%E5%AF%86%E7%94%B5%E9%98%BB,付款前须拿到完整MPN及原厂数据表，逐项确认阻值、0805、容差和TCR；原BOM MPN不能作为升级件替身。,A 焊接前,"位号：R24, R27。可选交流正负幅值对称性升级；最终仍须示波器检查电极直流分量。",待询价；未确认库存/价格
+E046,主板电子料,电阻 470k,必买（已有可复用）,1,9,10,只/件,RK73B2ATTD474J,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",RK73B2ATTD474J,https://s.taobao.com/search?q=RK73B2ATTD474J,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,位号：R35。原ADI Rev.A BOM原件保留。,待询价；未确认库存/价格
+E047,主板电子料,电阻 430,必买（已有可复用）,6,4,10,只/件,RC0805JR-07430RL,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",RC0805JR-07430RL,https://s.taobao.com/search?q=RC0805JR-07430RL,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,"位号：R33, R34, R36, R41, R42, R45。原ADI Rev.A BOM原件保留。",待询价；未确认库存/价格
+E048,主板电子料,电阻 1.20k,精密升级，先询价,4,4,8,只/件,参数选型/询价，未指定已核实MPN,0805；保持1.20k原值；初始容差≤0.01%；TCR优选≤2ppm/°C，≤5ppm替代须验证温漂；额定功率≥0.1W；优先同系列/同批次并记录实测匹配。,贸泽中国/得捷中国向Vishay、VPG或Susumu精密系列询价；须提供完整MPN和数据表,"https://www.mouser.cn/
+https://www.digikey.cn/",1.20k 0805 0.01% 2ppm 精密电阻,https://s.taobao.com/search?q=1.20k%200805%200.01%25%202ppm%20%E7%B2%BE%E5%AF%86%E7%94%B5%E9%98%BB,付款前须拿到完整MPN及原厂数据表，逐项确认阻值、0805、容差和TCR；原BOM MPN不能作为升级件替身。,A 焊接前,"位号：R20, R31, R38, R52。优选升级：四路衰减比例电阻，数值和0805焊盘保持；原MPN不被声称满足新精度/TCR要求。若降级使用原BOM，必须另记录并重新核算/验证误差预算。",待询价；未确认库存/价格
+E049,主板电子料,电阻 1.00kΩ,精密升级，先询价,1,2,3,只/件,参数选型/询价，未指定已核实MPN,0805；1.00kΩ；初始容差≤0.01%；TCR优选≤2ppm/°C，采用≤5ppm件须重新核算环境温漂并实测；额定功率≥0.1W；不得改变焊盘或阻值。,贸泽中国/得捷中国向Vishay、VPG或Susumu精密系列询价；须提供完整MPN和数据表,"https://www.mouser.cn/
+https://www.digikey.cn/",1.00kΩ 0805 0.01% 2ppm 精密电阻,https://s.taobao.com/search?q=1.00k%CE%A9%200805%200.01%25%202ppm%20%E7%B2%BE%E5%AF%86%E7%94%B5%E9%98%BB,付款前须拿到完整MPN及原厂数据表，逐项确认阻值、0805、容差和TCR；原BOM MPN不能作为升级件替身。,A 焊接前,位号：R47。必改精度等级，阻值保持1k；原MPN仅供追溯，不作为满足升级规格的推荐件。,待询价；未确认库存/价格
+E050,主板电子料,旋转编码器 带按压开关旋转编码器,必买（已有可复用）,1,1,2,只/件,PEC12R-4120F-S0012,保持完整订购型号、引脚排列、轴型、轴长及脉冲/定位特性；不能按PCB封装标注PEC11R-S猜替代料。 原PCB封装名PEC11R-S不能替代实际订货码PEC12R-4120F-S0012；旋钮另列。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",PEC12R-4120F-S0012,https://s.taobao.com/search?q=PEC12R-4120F-S0012,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,位号：S1；采购子项：旋转编码器。原BOM第一项，编码器本体；与旋钮分别采购。,待询价；未确认库存/价格
+E051,主板电子料,编码器旋钮 匹配编码器轴的旋钮,必买（已有可复用）,1,0,1,只/件,506.61,采购前核对轴孔、轴型与外径/高度；机械外观替换须保持轴配合和面板间隙。 原PCB封装名PEC11R-S不能替代实际订货码PEC12R-4120F-S0012；旋钮另列。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",506.61,https://s.taobao.com/search?q=506.61,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,位号：S1；采购子项：编码器旋钮。原BOM第二项，机械旋钮；不是编码器替代料。,待询价；未确认库存/价格
+E052,主板电子料,LCD显示模块 128×64 LCD，原厂指定模块,必买（已有可复用）,1,0,1,只/件,BTHQ128064AVC1-COG-STF-LED,按原LCD型号及接口/控制器采购，提供现行数据表核对外形、接触方向、背光与针脚；缺货时不能只按12864名称替代。 原接口焊盘必须保留。普通12864液晶不保证电压、引脚、控制器、排线兼容。,贸泽中国/得捷中国按原厂编号询价；有库存后再下其他长交期件,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",BTHQ128064AVC1-COG-STF-LED,https://s.taobao.com/search?q=BTHQ128064AVC1-COG-STF-LED,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。 LCD和匹配连接器是两件都需要；付款前核对模块外形图和排线图。,A 焊接前,位号：U1；采购子项：LCD显示模块。原BOM逗号分隔的第一项；与下行连接器是两种不同物料，不是替代型号。,待询价；未确认库存/价格
+E053,主板电子料,LCD板端连接器 LCD匹配板端连接器,必买（已有可复用）,1,1,2,只/件,68612214122,与原LCD和Gerber匹配；采购前核对针距、触点方向、安装高度及锁扣，不能用外观相近连接器替换。 原接口焊盘必须保留。普通12864液晶不保证电压、引脚、控制器、排线兼容。,贸泽中国/得捷中国按原厂编号询价；有库存后再下其他长交期件,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",68612214122,https://s.taobao.com/search?q=68612214122,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。 LCD和匹配连接器是两件都需要；付款前核对模块外形图和排线图。,A 焊接前,位号：U1；采购子项：LCD板端连接器。原BOM逗号分隔的第二项；LCD模块和该连接器各采购1件。,待询价；未确认库存/价格
+E054,主板电子料,原板器件 WST-1203UX,必买（已有可复用）,1,1,2,只/件,WST-1203UX,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",WST-1203UX,https://s.taobao.com/search?q=WST-1203UX,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,位号：U2。原ADI Rev.A BOM原件保留。,待询价；未确认库存/价格
+E055,主板电子料,原板器件 SI2343DS,必买（已有可复用）,1,1,2,只/件,SI2343DS,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",SI2343DS,https://s.taobao.com/search?q=SI2343DS,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,位号：U3。原ADI Rev.A BOM原件保留。,待询价；未确认库存/价格
+E056,主板电子料,原板器件 ADP1613ARMZ,必买（已有可复用）,1,1,2,只/件,ADP1613ARMZ,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,ADI中国人民币商城优先；贸泽中国/得捷中国按完整MPN询价并核对来源,"https://www.analog.com/cn/lp/002/promotion/china-eshop.html
+https://www.mouser.cn/
+https://www.digikey.cn/",ADP1613ARMZ,https://s.taobao.com/search?q=ADP1613ARMZ,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,位号：U5。原ADI Rev.A BOM原件保留。,待询价；未确认库存/价格
+E057,主板电子料,原板器件 AD8592ARMZ,必买（已有可复用）,1,1,2,只/件,AD8592ARMZ,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,ADI中国人民币商城优先；贸泽中国/得捷中国按完整MPN询价并核对来源,"https://www.analog.com/cn/lp/002/promotion/china-eshop.html
+https://www.mouser.cn/
+https://www.digikey.cn/",AD8592ARMZ,https://s.taobao.com/search?q=AD8592ARMZ,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,位号：U6。原ADI Rev.A BOM原件保留。,待询价；未确认库存/价格
+E058,主板电子料,原板器件 ADM3075EARZ,必买（已有可复用）,1,1,2,只/件,ADM3075EARZ,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。 采购Rev.A的ADM3075EARZ（SOIC8）；不要误买旧版ADM3483。,ADI中国人民币商城优先；贸泽中国/得捷中国按完整MPN询价并核对来源,"https://www.analog.com/cn/lp/002/promotion/china-eshop.html
+https://www.mouser.cn/
+https://www.digikey.cn/",ADM3075EARZ,https://s.taobao.com/search?q=ADM3075EARZ,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,位号：U7。原ADI Rev.A BOM原件保留。,待询价；未确认库存/价格
+E059,主板电子料,原板器件 ADuCM360BCPZ128,必买（已有可复用）,1,1,2,只/件,ADuCM360BCPZ128,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。 LFCSP48+EP，7×7 mm；底部EP49必须回流/热风焊接；勿买ADuCM361替代。,ADI中国人民币商城优先；贸泽中国/得捷中国按完整MPN询价并核对来源,"https://www.analog.com/cn/lp/002/promotion/china-eshop.html
+https://www.mouser.cn/
+https://www.digikey.cn/",ADuCM360BCPZ128,https://s.taobao.com/search?q=ADuCM360BCPZ128,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,位号：U8。完整型号ADuCM360BCPZ128；底部焊盘不可省略；可单独委托芯片焊接后再自行完成其余器件。,待询价；未确认库存/价格
+E060,主板电子料,原板器件 ADA4077-2ARZ,必买（已有可复用）,1,1,2,只/件,ADA4077-2ARZ,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,ADI中国人民币商城优先；贸泽中国/得捷中国按完整MPN询价并核对来源,"https://www.analog.com/cn/lp/002/promotion/china-eshop.html
+https://www.mouser.cn/
+https://www.digikey.cn/",ADA4077-2ARZ,https://s.taobao.com/search?q=ADA4077-2ARZ,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,位号：U9。原ADI Rev.A BOM原件保留。,待询价；未确认库存/价格
+E061,主板电子料,原板器件 ADA4638-1ARZ,必买（已有可复用）,4,1,5,只/件,ADA4638-1ARZ,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,ADI中国人民币商城优先；贸泽中国/得捷中国按完整MPN询价并核对来源,"https://www.analog.com/cn/lp/002/promotion/china-eshop.html
+https://www.mouser.cn/
+https://www.digikey.cn/",ADA4638-1ARZ,https://s.taobao.com/search?q=ADA4638-1ARZ,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,"位号：U10, U13, U16, U21。原ADI Rev.A BOM原件保留。",待询价；未确认库存/价格
+E062,主板电子料,原板器件 ADG1419BRMZ,必买（已有可复用）,1,1,2,只/件,ADG1419BRMZ,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,ADI中国人民币商城优先；贸泽中国/得捷中国按完整MPN询价并核对来源,"https://www.analog.com/cn/lp/002/promotion/china-eshop.html
+https://www.mouser.cn/
+https://www.digikey.cn/",ADG1419BRMZ,https://s.taobao.com/search?q=ADG1419BRMZ,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,位号：U11。原ADI Rev.A BOM原件保留。,待询价；未确认库存/价格
+E063,主板电子料,原板器件 ADA4528-2ARMZ,必买（已有可复用）,2,1,3,只/件,ADA4528-2ARMZ,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,ADI中国人民币商城优先；贸泽中国/得捷中国按完整MPN询价并核对来源,"https://www.analog.com/cn/lp/002/promotion/china-eshop.html
+https://www.mouser.cn/
+https://www.digikey.cn/",ADA4528-2ARMZ,https://s.taobao.com/search?q=ADA4528-2ARMZ,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,"位号：U12, U20。原ADI Rev.A BOM原件保留。",待询价；未确认库存/价格
+E064,主板电子料,原板器件 ADA4000-1ARZ,必买（已有可复用）,1,1,2,只/件,ADA4000-1ARZ,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,ADI中国人民币商城优先；贸泽中国/得捷中国按完整MPN询价并核对来源,"https://www.analog.com/cn/lp/002/promotion/china-eshop.html
+https://www.mouser.cn/
+https://www.digikey.cn/",ADA4000-1ARZ,https://s.taobao.com/search?q=ADA4000-1ARZ,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,位号：U14。原ADI Rev.A BOM原件保留。,待询价；未确认库存/价格
+E065,主板电子料,原板器件 AD8253ARMZ,必买（已有可复用）,2,1,3,只/件,AD8253ARMZ,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,ADI中国人民币商城优先；贸泽中国/得捷中国按完整MPN询价并核对来源,"https://www.analog.com/cn/lp/002/promotion/china-eshop.html
+https://www.mouser.cn/
+https://www.digikey.cn/",AD8253ARMZ,https://s.taobao.com/search?q=AD8253ARMZ,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,"位号：U15, U18。原ADI Rev.A BOM原件保留。",待询价；未确认库存/价格
+E066,主板电子料,原板器件 ADG1211YRUZ,必买（已有可复用）,1,1,2,只/件,ADG1211YRUZ,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,ADI中国人民币商城优先；贸泽中国/得捷中国按完整MPN询价并核对来源,"https://www.analog.com/cn/lp/002/promotion/china-eshop.html
+https://www.mouser.cn/
+https://www.digikey.cn/",ADG1211YRUZ,https://s.taobao.com/search?q=ADG1211YRUZ,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,位号：U17。原ADI Rev.A BOM原件保留。,待询价；未确认库存/价格
+E067,主板电子料,原板器件 ADA4627-1ARZ,必买（已有可复用）,1,1,2,只/件,ADA4627-1ARZ,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,ADI中国人民币商城优先；贸泽中国/得捷中国按完整MPN询价并核对来源,"https://www.analog.com/cn/lp/002/promotion/china-eshop.html
+https://www.mouser.cn/
+https://www.digikey.cn/",ADA4627-1ARZ,https://s.taobao.com/search?q=ADA4627-1ARZ,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,位号：U19。原ADI Rev.A BOM原件保留。,待询价；未确认库存/价格
+E068,主板电子料,原板器件 AD8542ARZ,必买（已有可复用）,1,1,2,只/件,AD8542ARZ,保持原BOM数值、封装与额定参数；原MPN的供货状态需采购时核实。,ADI中国人民币商城优先；贸泽中国/得捷中国按完整MPN询价并核对来源,"https://www.analog.com/cn/lp/002/promotion/china-eshop.html
+https://www.mouser.cn/
+https://www.digikey.cn/",AD8542ARZ,https://s.taobao.com/search?q=AD8542ARZ,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,位号：U22。原ADI Rev.A BOM原件保留。,待询价；未确认库存/价格
+E069,电源子板电子料,原板器件 ADP3338AKCZ-3.3,必买（已有可复用）,1,1,2,只/件,ADP3338AKCZ-3.3RL7,3.3V固定输出，三脚SOT-223；1=GND、2及TAB=OUT、3=IN。小板按200mA连续负载设计目标，非1A已验证输出。,ADI中国人民币商城优先；贸泽中国/得捷中国,"https://www.analog.com/cn/lp/002/promotion/china-eshop.html
+https://www.mouser.cn/
+https://www.digikey.cn/",ADP3338AKCZ-3.3RL7,https://s.taobao.com/search?q=ADP3338AKCZ-3.3RL7,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,位号：U1。子板尺寸35×35mm；JP1/JP2另各配1只跳帽，U1散热片属于3.3V，不能接地壳。,待询价；未确认库存/价格
+E070,电源子板电子料,电容 10uF 25V X5R,必买（已有可复用）,1,9,10,只/件,GRM21BR61E106KA73L,10 µF，0805，25 V，X5R，±10%；输入5.1 V及输出3.3 V偏压/温度下有效容量均≥1 µF。 0805 MLCC; effective capacitance >= 1 uF at 5.1 V,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",GRM21BR61E106KA73L,https://s.taobao.com/search?q=GRM21BR61E106KA73L,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,位号：C1。子板尺寸35×35mm；JP1/JP2另各配1只跳帽，U1散热片属于3.3V，不能接地壳。,待询价；未确认库存/价格
+E071,电源子板电子料,电容 10uF 25V X5R,必买（已有可复用）,1,9,10,只/件,GRM21BR61E106KA73L,10 µF，0805，25 V，X5R，±10%；输入5.1 V及输出3.3 V偏压/温度下有效容量均≥1 µF。 0805 MLCC; effective capacitance >= 1 uF at 3.3 V,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",GRM21BR61E106KA73L,https://s.taobao.com/search?q=GRM21BR61E106KA73L,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,位号：C2。子板尺寸35×35mm；JP1/JP2另各配1只跳帽，U1散热片属于3.3V，不能接地壳。,待询价；未确认库存/价格
+E072,电源子板电子料,原板器件 5V_POST_U3_IN,必买（已有可复用）,1,1,2,只/件,"MKDS 1,5/2-5,08","2位5.08mm卧式接线端子；外形、插针孔与Phoenix MKDS 1,5/2-5,08焊盘一致。 MKDS 1,5/2-5,08=Phoenix订货系列；5.08 mm间距、孔径、进线方向须一致。",立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/","MKDS 1,5/2-5,08",https://s.taobao.com/search?q=MKDS%201%2C5/2-5%2C08,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,位号：J1。子板尺寸35×35mm；JP1/JP2另各配1只跳帽，U1散热片属于3.3V，不能接地壳。,待询价；未确认库存/价格
+E073,电源子板电子料,原板器件 3V3_TO_L5_PIN1,必买（已有可复用）,1,1,2,只/件,"MKDS 1,5/2-5,08","2位5.08mm卧式接线端子；外形、插针孔与Phoenix MKDS 1,5/2-5,08焊盘一致。 MKDS 1,5/2-5,08=Phoenix订货系列；5.08 mm间距、孔径、进线方向须一致。",立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/","MKDS 1,5/2-5,08",https://s.taobao.com/search?q=MKDS%201%2C5/2-5%2C08,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,位号：J2。子板尺寸35×35mm；JP1/JP2另各配1只跳帽，U1散热片属于3.3V，不能接地壳。,待询价；未确认库存/价格
+E074,电源子板电子料,原板器件 INPUT_ENABLE,必买（已有可复用）,1,1,2,只/件,1x02 P2.54mm straight header + removable shunt,2.54mm间距2针直排针+可拆短路帽；JP1隔离输入、JP2隔离输出/测输出电流。 每个采购子项含2针直排针及1只可拆短路帽，不再重复买。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",1x02 P2.54mm straight header + removable shunt,https://s.taobao.com/search?q=1x02%20P2.54mm%20straight%20header%20%2B%20removable%20shunt,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,位号：JP1。子板尺寸35×35mm；JP1/JP2另各配1只跳帽，U1散热片属于3.3V，不能接地壳。,待询价；未确认库存/价格
+E075,电源子板电子料,原板器件 OUTPUT_ENABLE,必买（已有可复用）,1,1,2,只/件,1x02 P2.54mm straight header + removable shunt,2.54mm间距2针直排针+可拆短路帽；JP1隔离输入、JP2隔离输出/测输出电流。 每个采购子项含2针直排针及1只可拆短路帽，不再重复买。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",1x02 P2.54mm straight header + removable shunt,https://s.taobao.com/search?q=1x02%20P2.54mm%20straight%20header%20%2B%20removable%20shunt,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,位号：JP2。子板尺寸35×35mm；JP1/JP2另各配1只跳帽，U1散热片属于3.3V，不能接地壳。,待询价；未确认库存/价格
+E076,电源子板电子料,原板器件 M3_NPTH,必买（已有可复用）,2,1,3,只/件,M3 nylon standoff,M3尼龙支撑柱，配3.2mm NPTH安装孔；必须绝缘固定，子板TAB/大铜面是3.3V输出。,立创商城或贸泽中国/得捷中国；机械件可淘宝按图纸比对,"https://www.szlcsc.com/
+https://www.mouser.cn/
+https://www.digikey.cn/",M3 nylon standoff,https://s.taobao.com/search?q=M3%20nylon%20standoff,核对完整订货码、封装尺寸、针序/极性、原包装及批次；旧料号无货时先审替代料数据表，不能仅按商品名替换。,A 焊接前,"位号：H1, H2。子板尺寸35×35mm；JP1/JP2另各配1只跳帽，U1散热片属于3.3V，不能接地壳。",待询价；未确认库存/价格
+P001,探头与配套,铂黑铂两电极电导池,必买/先询价,1,1,2,支,国产按技术协议定制；雷磁渠道询价可行性,K≈1.0 cm⁻¹；镀铂黑铂；10–2000 µS/cm；0–50°C；固定低漏电屏蔽线≤1 m。优先两电极四端引线至同一电极；若仅两线，整套线缆固定校准。不得买4–20 mA/RS485一体变送器冒充裸电导池。,雷磁/国内电化学探头厂商技术销售；淘宝仅寻找可出具规格和单支K记录的厂家,https://www.lei-ci.com/,铂黑 铂 电导电极 K=1 两极 四线 定制,https://s.taobao.com/search?q=%E9%93%82%E9%BB%91%20%E9%93%82%20%E7%94%B5%E5%AF%BC%E7%94%B5%E6%9E%81%20K%3D1%20%E4%B8%A4%E6%9E%81%20%E5%9B%9B%E7%BA%BF%20%E5%AE%9A%E5%88%B6,先买1支验收后再买备件1支：索取序列号、实测K/温度/不确定度、允许交流幅度/频率、推荐清洗储存方法。最终极化/线性须实测；名义K容差不等于校准后精度。,A 先询价；B 样机后验收,两支建议量包含1支备件；换探头须重校准。尚未指定已确认现货的型号。,待询价；未确认库存/价格
+P002,探头与配套,四线Pt1000温度探头,必买/先询价,1,1,2,支,Pt1000 IEC60751 Class AA或更好定制成品,R0=1000Ω，α=0.00385；真正四根线独立至元件；防水密封，φ约3 mm，线≤1 m，0–50°C。校准后初步目标±0.05°C，严格预算±0.03°C需实证；采购AA本身不能保证。,国内铂电阻探头厂家技术销售；淘宝厂家定制并书面确认,,Pt1000 四线 AA级 防水 3mm 校准,https://s.taobao.com/search?q=Pt1000%20%E5%9B%9B%E7%BA%BF%20AA%E7%BA%A7%20%E9%98%B2%E6%B0%B4%203mm%20%E6%A0%A1%E5%87%86,核对四线接法与绝缘；索要耗散常数/最小浸深/响应时间；整支在0/25/50°C校准并加12.5/37.5°C检查；不得买Pt100、NTC、两线分叉或数字温度模块。,A 先询价；C 温度标定,不锈钢护套不得默认接电导电极/屏蔽/地；探头与电子通道一起标定。,待询价；未确认库存/价格
+P003,探头与配套,电导探头低漏电转接组件,必买，按实物接头定型,1,1,2,套,探头接头配对件/低漏电接线盒,与P001实际接头完全配对，推荐PTFE绝缘；屏蔽与测量返回不能默认短接；主板J5为1F+、2S+、3S−、4F−、5屏蔽。,探头厂家配套供货；立创/淘宝连接器商,https://www.szlcsc.com/,PTFE 低漏电 连接器 电导电极 转接,https://s.taobao.com/search?q=PTFE%20%E4%BD%8E%E6%BC%8F%E7%94%B5%20%E8%BF%9E%E6%8E%A5%E5%99%A8%20%E7%94%B5%E5%AF%BC%E7%94%B5%E6%9E%81%20%E8%BD%AC%E6%8E%A5,两线探头在同侧并接1/2和3/4；若厂家可引出四端，则F/S独立到电极端。固定长度校准，插头干燥清洁。,B 探头到货后,若原探头是BNC，必须确认BNC外壳是另一测量端还是屏蔽；不直接搭铁。,待询价；未确认库存/价格
+P004,探头与配套,Pt1000四芯配套转接线/接头,必买，按实物定型,1,1,2,套,四芯接头，独立屏蔽可选五芯,独立四导体与应力释放；按F+、S+、S−、F−标注；兼容0–50°C水浸端外侧连接。,温度探头厂家；立创/淘宝,https://www.szlcsc.com/,四芯 屏蔽 电缆 接头 防水,https://s.taobao.com/search?q=%E5%9B%9B%E8%8A%AF%20%E5%B1%8F%E8%94%BD%20%E7%94%B5%E7%BC%86%20%E6%8E%A5%E5%A4%B4%20%E9%98%B2%E6%B0%B4,J3=1F+、2S+、3S−、4F−；两同侧导线的低电阻关系用万用表核对；第4脚是偏置回路，不是外壳地。,B 探头到货后,,待询价；未确认库存/价格
+M001,制板与结构,CN0359主板四层裸板,必买,1,4,5,片,已交付 CN0359_mainboard_4layer_Gerber_v02.zip,约99.822×103.632 mm，四层，FR4 1.6 mm，建议外层1 oz、沉金；保留内槽和显式公制钻孔，具体层叠由板厂确认。,嘉立创PCB/捷多邦官网,"https://www.jlc.com/
+https://www.jdbpcb.com/",嘉立创 四层 PCB 打样 沉金,https://s.taobao.com/search?q=%E5%98%89%E7%AB%8B%E5%88%9B%20%E5%9B%9B%E5%B1%82%20PCB%20%E6%89%93%E6%A0%B7%20%E6%B2%89%E9%87%91,单独上传主板Gerber ZIP；确认四层顺序、247个钻/槽操作及板框；无钢网锡膏层，不得把阻焊层直接当锡膏层。,A 制板,5片是常见打样与返修备份建议；只装1台，电子料数量不按5台乘算。,待询价；未确认库存/价格
+M002,制板与结构,3.3V LDO子板两层裸板,必买,1,4,5,片,已交付 CN0359_power_adapter_2layer_Gerber_v02.zip,35×35 mm，两层，FR4 1.6 mm，建议外层1 oz；2个M3非金属化孔，PTH与NPTH分开。,嘉立创PCB/捷多邦官网,"https://www.jlc.com/
+https://www.jdbpcb.com/",两层 PCB 打样 沉金,https://s.taobao.com/search?q=%E4%B8%A4%E5%B1%82%20PCB%20%E6%89%93%E6%A0%B7%20%E6%B2%89%E9%87%91,单独上传子板ZIP；不得与主板合并成同一个层数订单；核对子板Gerber/钻孔版本。,A 制板,,待询价；未确认库存/价格
+M003,制板与结构,主板局部MCU钢网或点膏方案,可选，二选一,1,0,1,项,ADuCM360 LFCSP48+EP局部钢网/厂家CAM重建,原主板U8在Bottom元件面；按实际底面芯片焊盘及EP分窗设计开孔，明确观察面/镜像；非已有官方锡膏文件。也可用受控点膏+回流，不另买全板钢网。,PCB厂钢网服务/本地SMT厂,https://www.jlc.com/,激光 钢网 QFN LFCSP 局部,https://s.taobao.com/search?q=%E6%BF%80%E5%85%89%20%E9%92%A2%E7%BD%91%20QFN%20LFCSP%20%E5%B1%80%E9%83%A8,须人工审核U8实际Bottom面焊盘、镜像方向和EP分窗，防止开错面或EP锡量过多抬芯片；不能直接用Top或阻焊层生成。,B 开始焊接前,,待询价；未确认库存/价格
+M004,制板与结构,子板钢网,可选,1,0,1,片,子板自带F.Paste,35×35 mm子板焊盘适配，或子板全手工焊不买。,PCB厂,https://www.jlc.com/,PCB 激光 钢网,https://s.taobao.com/search?q=PCB%20%E6%BF%80%E5%85%89%20%E9%92%A2%E7%BD%91,仅对子板文件下单，核对正反面和定位。,B 开始焊接前,,待询价；未确认库存/价格
+M005,制板与结构,绝缘外壳/面板,建议后买,1,0,1,套,ABS/PC塑料仪器壳，内净空间初选≥160×130×70 mm,容纳约100×104 mm双面有元件的主板、35×35 mm子板、LCD排线弯曲和插线；底面U8等器件需留净空，最终按实物开孔。尺寸仅机械选型起点。,淘宝/1688仪表外壳厂,,ABS 仪表壳 160 130 70 定制开孔,https://s.taobao.com/search?q=ABS%20%E4%BB%AA%E8%A1%A8%E5%A3%B3%20160%20130%2070%20%E5%AE%9A%E5%88%B6%E5%BC%80%E5%AD%94,主板到货测量螺孔、元件高度、LCD位置后画开孔图；塑料优先减少误搭地，接线与水样分开。,D 功能稳定后,,待询价；未确认库存/价格
+M006,制板与结构,主板支撑柱/螺钉/绝缘垫,必买，孔径后核对,1,1,2,套,M3尼龙支撑柱/螺钉/垫片套装,按主板实际孔径核对；每套至少4支撑位。另子板H1/H2支撑柱已在电子料表计数。,淘宝/立创,https://www.szlcsc.com/,M3 尼龙 铜柱 绝缘 螺丝 垫片,https://s.taobao.com/search?q=M3%20%E5%B0%BC%E9%BE%99%20%E9%93%9C%E6%9F%B1%20%E7%BB%9D%E7%BC%98%20%E8%9E%BA%E4%B8%9D%20%E5%9E%AB%E7%89%87,采购尼龙而非导电柱顶到线路；不要将子板SOT223输出TAB搭到金属外壳。,B 装配,,待询价；未确认库存/价格
+M007,制板与结构,子板支撑配套螺钉/垫片,必买,2,2,4,组,M3尼龙螺钉+垫片,配合子板已列H1/H2尼龙柱；螺钉长度适合35mm子板支架。,淘宝/立创,https://www.szlcsc.com/,M3 尼龙 螺丝 垫片,https://s.taobao.com/search?q=M3%20%E5%B0%BC%E9%BE%99%20%E8%9E%BA%E4%B8%9D%20%E5%9E%AB%E7%89%87,支撑柱已列在子板BOM，此处只计螺钉和垫片，避免漏买固定附件。,B 装配,,待询价；未确认库存/价格
+M008,制板与结构,5V直流稳压适配器,必买（调试可先用台式电源）,1,1,2,个,5.0 V ±2%，≥1 A，隔离稳压电源,输出4.9–5.1 V，低纹波；插头须匹配MJ-179PH实际尺寸/极性。不得用原6 V、9 V、12 V电源；不用USB快充触发升压线。,正规电源品牌官网/京东自营/淘宝品牌渠道,https://www.jd.com/,5V 1A 稳压 电源 低纹波,https://s.taobao.com/search?q=5V%201A%20%E7%A8%B3%E5%8E%8B%20%E7%94%B5%E6%BA%90%20%E4%BD%8E%E7%BA%B9%E6%B3%A2,不接板先测电压与极性，再空载/上板检查启动峰值、限流、纹波；1A是电源能力，不等于板子实测耗电。,B 上电前,,待询价；未确认库存/价格
+M009,制板与结构,电源配套直流插头/引线,必买（适配器已配对可免）,1,1,2,根,按MJ-179PH实物匹配,线径22–24AWG，标明正负；不可凭DC-005封装名断言一定5.5×2.1 mm。,J1供应商配套/淘宝,,DC 插头 电源线 端子,https://s.taobao.com/search?q=DC%20%E6%8F%92%E5%A4%B4%20%E7%94%B5%E6%BA%90%E7%BA%BF%20%E7%AB%AF%E5%AD%90,卡尺量内外径，万用表确认中心到J1.1的连通与J1.2回地；第三脚是开关触点。,B 上电前,,待询价；未确认库存/价格
+M010,制板与结构,内部电源导线与绝缘套管,必买,2,3,5,米,红黑各适量，22–24AWG多股线+热缩管,子板从主板U3之后C9供电；输出接L5.1前端，切勿接L5.3地；子板JP1/JP2短路帽在BOM已包含。,立创/淘宝,https://www.szlcsc.com/,硅胶 多股 导线 24AWG 热缩管,https://s.taobao.com/search?q=%E7%A1%85%E8%83%B6%20%E5%A4%9A%E8%82%A1%20%E5%AF%BC%E7%BA%BF%2024AWG%20%E7%83%AD%E7%BC%A9%E7%AE%A1,走线短、固定防拉脱；标注5V_POST_U3与3V3_TO_L5；焊接后查短路。,B 装配,,待询价；未确认库存/价格
+M011,制板与结构,线缆防水接头/压线夹/扎带,建议,1,1,2,套,M12/M16尼龙电缆锁头按线径选,仅作机械应力释放；不能代替最终整机防水等级试验。,淘宝五金/立创,https://www.szlcsc.com/,尼龙 电缆 防水接头 压线夹 扎带,https://s.taobao.com/search?q=%E5%B0%BC%E9%BE%99%20%E7%94%B5%E7%BC%86%20%E9%98%B2%E6%B0%B4%E6%8E%A5%E5%A4%B4%20%E5%8E%8B%E7%BA%BF%E5%A4%B9%20%E6%89%8E%E5%B8%A6,按电缆直径选夹紧范围，信号线与电源线分束。,D 外壳装配,,待询价；未确认库存/价格
+M012,制板与结构,旋钮面板/LCD固定支架/标识,建议,1,1,2,套,3D打印或绝缘支架/刻字标签,固定LCD避免FPC受力；标注电导/温度/5V极性、R13=4.99k和固件lowheat版本。,淘宝3D打印/本地加工,,LCD 固定 支架 3D打印 面板 标签,https://s.taobao.com/search?q=LCD%20%E5%9B%BA%E5%AE%9A%20%E6%94%AF%E6%9E%B6%203D%E6%89%93%E5%8D%B0%20%E9%9D%A2%E6%9D%BF%20%E6%A0%87%E7%AD%BE,按采购到的实际LCD外形出图；旋钮本体已在S1采购子项。,D 外壳装配,,待询价；未确认库存/价格
+S001,标准液与水,低端10 µS/cm有证标准/校准服务,精度验收必需，可由实验室替代,1,0,1,瓶/服务,10 µS/cm（25°C附近）,采购前先取证书样本：认证电导率、认证温度/温度表、U及k、批号、有效期、开瓶使用条件。目标扩展不确定度U≤0.10%（k≈2）；未达到则重新评估验收不确定度或委托更高等级服务。每瓶建议100–250 mL或单次服务。,国家标准物质平台/中国计量院渠道查询；雷磁、梅特勒或试剂品牌技术销售先审证书,"https://www.ncrm.org.cn/
+https://www.nim.ac.cn/
+https://www.lei-ci.com/
+https://www.mt.com/cn/zh/home.html",10 µS/cm（25°C附近） 电导率 有证 标准液 证书,https://s.taobao.com/search?q=10%20%C2%B5S/cm%EF%BC%8825%C2%B0C%E9%99%84%E8%BF%91%EF%BC%89%20%E7%94%B5%E5%AF%BC%E7%8E%87%20%E6%9C%89%E8%AF%81%20%E6%A0%87%E5%87%86%E6%B6%B2%20%E8%AF%81%E4%B9%A6,确认是µS/cm而非mS/cm；温度与证书相同，不用瓶身名义值代替认证值。淘宝搜索仅找渠道，未核实具体商品达到U要求。,C 校准前临近购买,必须覆盖10端点；低电导液CO₂敏感。若找不到合格有证液，委托具有该低端能力的实验室，不能以84点外推代替。 数量按一轮验证估计；若多温度大量复测按实际池容增加。,待询价；未确认库存/价格
+S002,标准液与水,低端独立检查液,精度验收必需，可由实验室替代,1,0,1,瓶/服务,约20 µS/cm,采购前先取证书样本：认证电导率、认证温度/温度表、U及k、批号、有效期、开瓶使用条件。目标扩展不确定度U≤0.10%（k≈2）；未达到则重新评估验收不确定度或委托更高等级服务。每瓶建议100–250 mL。,国家标准物质平台/中国计量院渠道查询；雷磁、梅特勒或试剂品牌技术销售先审证书,"https://www.ncrm.org.cn/
+https://www.nim.ac.cn/
+https://www.lei-ci.com/
+https://www.mt.com/cn/zh/home.html",约20 µS/cm 电导率 有证 标准液 证书,https://s.taobao.com/search?q=%E7%BA%A620%20%C2%B5S/cm%20%E7%94%B5%E5%AF%BC%E7%8E%87%20%E6%9C%89%E8%AF%81%20%E6%A0%87%E5%87%86%E6%B6%B2%20%E8%AF%81%E4%B9%A6,确认是µS/cm而非mS/cm；温度与证书相同，不用瓶身名义值代替认证值。淘宝搜索仅找渠道，未核实具体商品达到U要求。,C 校准前临近购买,独立于拟合点；有证名义值可调整到10–30内，不能误买12.88 mS/cm。 数量按一轮验证估计；若多温度大量复测按实际池容增加。,待询价；未确认库存/价格
+S003,标准液与水,84 µS/cm校准液,精度验收必需，可由实验室替代,1,0,1,瓶/服务,约84 µS/cm,采购前先取证书样本：认证电导率、认证温度/温度表、U及k、批号、有效期、开瓶使用条件。目标扩展不确定度U≤0.10%（k≈2）；未达到则重新评估验收不确定度或委托更高等级服务。每瓶建议250 mL。,国家标准物质平台/中国计量院渠道查询；雷磁、梅特勒或试剂品牌技术销售先审证书,"https://www.ncrm.org.cn/
+https://www.nim.ac.cn/
+https://www.lei-ci.com/
+https://www.mt.com/cn/zh/home.html",约84 µS/cm 电导率 有证 标准液 证书,https://s.taobao.com/search?q=%E7%BA%A684%20%C2%B5S/cm%20%E7%94%B5%E5%AF%BC%E7%8E%87%20%E6%9C%89%E8%AF%81%20%E6%A0%87%E5%87%86%E6%B6%B2%20%E8%AF%81%E4%B9%A6,确认是µS/cm而非mS/cm；温度与证书相同，不用瓶身名义值代替认证值。淘宝搜索仅找渠道，未核实具体商品达到U要求。,C 校准前临近购买,可作为中低端拟合点，实际值用证书；不同标准系列可能是接近值。 数量按一轮验证估计；若多温度大量复测按实际池容增加。,待询价；未确认库存/价格
+S004,标准液与水,100 µS/cm独立检查液,精度验收必需，可由实验室替代,1,0,1,瓶/服务,约100 µS/cm,采购前先取证书样本：认证电导率、认证温度/温度表、U及k、批号、有效期、开瓶使用条件。目标扩展不确定度U≤0.10%（k≈2）；未达到则重新评估验收不确定度或委托更高等级服务。每瓶建议250 mL。,国家标准物质平台/中国计量院渠道查询；雷磁、梅特勒或试剂品牌技术销售先审证书,"https://www.ncrm.org.cn/
+https://www.nim.ac.cn/
+https://www.lei-ci.com/
+https://www.mt.com/cn/zh/home.html",约100 µS/cm 电导率 有证 标准液 证书,https://s.taobao.com/search?q=%E7%BA%A6100%20%C2%B5S/cm%20%E7%94%B5%E5%AF%BC%E7%8E%87%20%E6%9C%89%E8%AF%81%20%E6%A0%87%E5%87%86%E6%B6%B2%20%E8%AF%81%E4%B9%A6,确认是µS/cm而非mS/cm；温度与证书相同，不用瓶身名义值代替认证值。淘宝搜索仅找渠道，未核实具体商品达到U要求。,C 校准前临近购买,与S003不同点位，用于校准后独立检查。 数量按一轮验证估计；若多温度大量复测按实际池容增加。,待询价；未确认库存/价格
+S005,标准液与水,500 µS/cm独立检查液,精度验收必需，可由实验室替代,1,0,1,瓶/服务,约500 µS/cm,采购前先取证书样本：认证电导率、认证温度/温度表、U及k、批号、有效期、开瓶使用条件。目标扩展不确定度U≤0.10%（k≈2）；未达到则重新评估验收不确定度或委托更高等级服务。每瓶建议250 mL。,国家标准物质平台/中国计量院渠道查询；雷磁、梅特勒或试剂品牌技术销售先审证书,"https://www.ncrm.org.cn/
+https://www.nim.ac.cn/
+https://www.lei-ci.com/
+https://www.mt.com/cn/zh/home.html",约500 µS/cm 电导率 有证 标准液 证书,https://s.taobao.com/search?q=%E7%BA%A6500%20%C2%B5S/cm%20%E7%94%B5%E5%AF%BC%E7%8E%87%20%E6%9C%89%E8%AF%81%20%E6%A0%87%E5%87%86%E6%B6%B2%20%E8%AF%81%E4%B9%A6,确认是µS/cm而非mS/cm；温度与证书相同，不用瓶身名义值代替认证值。淘宝搜索仅找渠道，未核实具体商品达到U要求。,C 校准前临近购买,验证中段；现货证书不满足时由实验室提供。 数量按一轮验证估计；若多温度大量复测按实际池容增加。,待询价；未确认库存/价格
+S006,标准液与水,1000 µS/cm独立检查液,精度验收必需，可由实验室替代,1,0,1,瓶/服务,约1000 µS/cm,采购前先取证书样本：认证电导率、认证温度/温度表、U及k、批号、有效期、开瓶使用条件。目标扩展不确定度U≤0.10%（k≈2）；未达到则重新评估验收不确定度或委托更高等级服务。每瓶建议250 mL。,国家标准物质平台/中国计量院渠道查询；雷磁、梅特勒或试剂品牌技术销售先审证书,"https://www.ncrm.org.cn/
+https://www.nim.ac.cn/
+https://www.lei-ci.com/
+https://www.mt.com/cn/zh/home.html",约1000 µS/cm 电导率 有证 标准液 证书,https://s.taobao.com/search?q=%E7%BA%A61000%20%C2%B5S/cm%20%E7%94%B5%E5%AF%BC%E7%8E%87%20%E6%9C%89%E8%AF%81%20%E6%A0%87%E5%87%86%E6%B6%B2%20%E8%AF%81%E4%B9%A6,确认是µS/cm而非mS/cm；温度与证书相同，不用瓶身名义值代替认证值。淘宝搜索仅找渠道，未核实具体商品达到U要求。,C 校准前临近购买,用于独立中高端检查；不可用无证NaCl浓度表换算。 数量按一轮验证估计；若多温度大量复测按实际池容增加。,待询价；未确认库存/价格
+S007,标准液与水,1413 µS/cm校准液,精度验收必需，可由实验室替代,1,0,1,瓶/服务,约1413 µS/cm,采购前先取证书样本：认证电导率、认证温度/温度表、U及k、批号、有效期、开瓶使用条件。目标扩展不确定度U≤0.10%（k≈2）；未达到则重新评估验收不确定度或委托更高等级服务。每瓶建议250 mL。,国家标准物质平台/中国计量院渠道查询；雷磁、梅特勒或试剂品牌技术销售先审证书,"https://www.ncrm.org.cn/
+https://www.nim.ac.cn/
+https://www.lei-ci.com/
+https://www.mt.com/cn/zh/home.html",约1413 µS/cm 电导率 有证 标准液 证书,https://s.taobao.com/search?q=%E7%BA%A61413%20%C2%B5S/cm%20%E7%94%B5%E5%AF%BC%E7%8E%87%20%E6%9C%89%E8%AF%81%20%E6%A0%87%E5%87%86%E6%B6%B2%20%E8%AF%81%E4%B9%A6,确认是µS/cm而非mS/cm；温度与证书相同，不用瓶身名义值代替认证值。淘宝搜索仅找渠道，未核实具体商品达到U要求。,C 校准前临近购买,常见等级±1%的商品不能用于证明整机±0.5%。 数量按一轮验证估计；若多温度大量复测按实际池容增加。,待询价；未确认库存/价格
+S008,标准液与水,2000 µS/cm上端有证标准/服务,精度验收必需，可由实验室替代,1,0,1,瓶/服务,约2000 µS/cm,采购前先取证书样本：认证电导率、认证温度/温度表、U及k、批号、有效期、开瓶使用条件。目标扩展不确定度U≤0.10%（k≈2）；未达到则重新评估验收不确定度或委托更高等级服务。每瓶建议250 mL或单次服务。,国家标准物质平台/中国计量院渠道查询；雷磁、梅特勒或试剂品牌技术销售先审证书,"https://www.ncrm.org.cn/
+https://www.nim.ac.cn/
+https://www.lei-ci.com/
+https://www.mt.com/cn/zh/home.html",约2000 µS/cm 电导率 有证 标准液 证书,https://s.taobao.com/search?q=%E7%BA%A62000%20%C2%B5S/cm%20%E7%94%B5%E5%AF%BC%E7%8E%87%20%E6%9C%89%E8%AF%81%20%E6%A0%87%E5%87%86%E6%B6%B2%20%E8%AF%81%E4%B9%A6,确认是µS/cm而非mS/cm；温度与证书相同，不用瓶身名义值代替认证值。淘宝搜索仅找渠道，未核实具体商品达到U要求。,C 校准前临近购买,必须覆盖2000端点；供应商无合格现货则委托端点校准。不能只测1413宣称2000已验证。 数量按一轮验证估计；若多温度大量复测按实际池容增加。,待询价；未确认库存/价格
+S009,标准液与水,独立批次复核标准液,精度验收必需，可由实验室替代,2,0,2,瓶/服务,优先约84及1413 µS/cm各1瓶,采购前先取证书样本：认证电导率、认证温度/温度表、U及k、批号、有效期、开瓶使用条件。目标扩展不确定度U≤0.10%（k≈2）；未达到则重新评估验收不确定度或委托更高等级服务。每瓶建议各100–250 mL。,国家标准物质平台/中国计量院渠道查询；雷磁、梅特勒或试剂品牌技术销售先审证书,"https://www.ncrm.org.cn/
+https://www.nim.ac.cn/
+https://www.lei-ci.com/
+https://www.mt.com/cn/zh/home.html",优先约84及1413 µS/cm各1瓶 电导率 有证 标准液 证书,https://s.taobao.com/search?q=%E4%BC%98%E5%85%88%E7%BA%A684%E5%8F%8A1413%20%C2%B5S/cm%E5%90%841%E7%93%B6%20%E7%94%B5%E5%AF%BC%E7%8E%87%20%E6%9C%89%E8%AF%81%20%E6%A0%87%E5%87%86%E6%B6%B2%20%E8%AF%81%E4%B9%A6,确认是µS/cm而非mS/cm；温度与证书相同，不用瓶身名义值代替认证值。淘宝搜索仅找渠道，未核实具体商品达到U要求。,C 校准前临近购买,换批次或独立来源，防止一瓶同时承担校准和全部验收。 数量按一轮验证估计；若多温度大量复测按实际池容增加。,待询价；未确认库存/价格
+S010,标准液与水,新鲜去离子/超纯水（冲洗用）,必需,5,5,10,L,当地实验室新鲜取用优先,冲洗末道用水建议≤1 µS/cm；低端试验优先现取18.2 MΩ·cm级源水并减少CO₂吸收。源水电阻率不等于运到后仍相同。,本地实验室/合格纯水供应商；淘宝仅包装水备选,,实验室 去离子水 超纯水 电导率,https://s.taobao.com/search?q=%E5%AE%9E%E9%AA%8C%E5%AE%A4%20%E5%8E%BB%E7%A6%BB%E5%AD%90%E6%B0%B4%20%E8%B6%85%E7%BA%AF%E6%B0%B4%20%E7%94%B5%E5%AF%BC%E7%8E%87,核对生产日期/容器洁净、实测或供应证明；这是冲洗水，不是10 µS/cm或零电导率标准。,B 清洗及C校准,先买约10 L，按冲洗量补充；无需一开始购买整套超纯水机。,待询价；未确认库存/价格
+S011,标准液与水,探头厂家认可清洗/储存液,按探头说明选购,1,0,1,套,随P001厂家建议,仅按铂黑探头厂家清洗/保存说明配套；可能只需纯水，或指定温和清洗剂，不能预设通用酸/强氧化剂。,P001探头厂家,https://www.lei-ci.com/,电导电极 清洗液 储存液 铂黑,https://s.taobao.com/search?q=%E7%94%B5%E5%AF%BC%E7%94%B5%E6%9E%81%20%E6%B8%85%E6%B4%97%E6%B6%B2%20%E5%82%A8%E5%AD%98%E6%B6%B2%20%E9%93%82%E9%BB%91,不把pH电极3 mol/L KCl储存液当本电导池通用保存液；不用手擦铂黑；不用洗液作为标准液。,B 探头到货后,不采购铂黑电镀药品；探头表面维护交厂家。,待询价；未确认库存/价格
+Q001,校准与测试设备,搅拌制冷恒温水槽/循环恒温槽,精度验证必需，可租/共用,1,0,1,台或使用服务,优先计量级液体恒温槽；JULABO等技术销售按指标报价,有效样品温度覆盖0–50°C（制冷设定需低于0留调节余量）；稳定性目标≤±0.01°C、均匀性目标≤0.02°C；能放隔离样品池和参考温度计，连续搅拌/循环。,JULABO中国技术销售/国内恒温槽厂家；本地计量实验室租用,"https://www.julabo.com/zh
+https://www.nim.ac.cn/",计量 恒温槽 制冷 搅拌 0.01度 低温,https://s.taobao.com/search?q=%E8%AE%A1%E9%87%8F%20%E6%81%92%E6%B8%A9%E6%A7%BD%20%E5%88%B6%E5%86%B7%20%E6%90%85%E6%8B%8C%200.01%E5%BA%A6%20%E4%BD%8E%E6%B8%A9,索取额定条件与可用工作区均匀性测试；显示0.01°C不等于稳定性0.01°C。用独立温度计验证样品水温，接近0°C避免样品冻结。,C 精度标定,浴液仅加在夹套/外水槽，不倒进电导标准液；不得用干燥恒温箱替代水样恒温。,待询价；未确认库存/价格
+Q002,校准与测试设备,参考温度计及探头（整套校准）,精度验证必需，可租/委托,1,0,1,套,四线标准铂电阻+精密电桥/温度计,覆盖0–50°C；整套可溯源证书目标U≤0.01°C（k≈2），分辨率≤0.001°C；提供校准修正值。,计量仪器厂家技术销售；中国计量院/本地有相应能力CNAS实验室,"https://www.nim.ac.cn/
+https://www.cnas.org.cn/",标准 铂电阻 温度计 0.001 计量 校准,https://s.taobao.com/search?q=%E6%A0%87%E5%87%86%20%E9%93%82%E7%94%B5%E9%98%BB%20%E6%B8%A9%E5%BA%A6%E8%AE%A1%200.001%20%E8%AE%A1%E9%87%8F%20%E6%A0%A1%E5%87%86,看探头+读出器整套证书与范围，不只看显示位数；两支探头温度梯度与浸入误差另计。,C 温度标定,可将P002连整机送校，替代自己购买Q001/Q002。,待询价；未确认库存/价格
+Q003,校准与测试设备,温度通道整机校准服务,建议优先委托,1,0,1,项,0/25/50°C校准，加12.5/37.5°C独立检查,连最终Pt1000、引线、R13和lowheat固件；要求报告修正值、稳定性、重复性、U和k；目标校准后±0.03°C，首轮可按±0.05°C评估预算。,中国计量院/本地有温度能力的CNAS实验室,"https://www.nim.ac.cn/
+https://www.cnas.org.cn/",Pt1000 温度仪 校准 CNAS,https://s.taobao.com/search?q=Pt1000%20%E6%B8%A9%E5%BA%A6%E4%BB%AA%20%E6%A0%A1%E5%87%86%20CNAS,确认实验室具体范围及不确定度能力，不只看CNAS标志；若只做探头校准，电子通道误差不能遗漏。,C 标定,与Q001/Q002自建设备构成替代路径；外包时不重复购买贵重温度标准设备。,待询价；未确认库存/价格
+Q004,校准与测试设备,可溯源电导率比较/整机验收服务,建议优先委托,1,0,1,项,覆盖10–2000 µS/cm，附温度条件,对实际探头+实际线缆+最终固件给出校准/独立验收点，覆盖低端与上端，报告标准液/参考仪器的证书与U。,有电导率低端能力的计量实验室；国家标准物质平台咨询,"https://www.nim.ac.cn/
+https://www.ncrm.org.cn/
+https://www.cnas.org.cn/",电导率仪 10 微西门子 校准 CNAS,https://s.taobao.com/search?q=%E7%94%B5%E5%AF%BC%E7%8E%87%E4%BB%AA%2010%20%E5%BE%AE%E8%A5%BF%E9%97%A8%E5%AD%90%20%E6%A0%A1%E5%87%86%20CNAS,事先确认10 µS/cm点能力和±0.5%目标的不确定度预算；结果判定应用守卫带，例如|误差|+U≤0.5%作为保守准则。,C 整机验收,可替代S001–S009自行采购中由实验室提供的液体和Q006；报价中写明哪些标准液已包含。,待询价；未确认库存/价格
+Q005,校准与测试设备,校准过的精密电阻/交流测试夹具,电子学验证必需，可委托测值,1,0,1,套,9点电阻套件或经校准电阻箱,目标100k/50k/20k/11.9048k/10k/2k/1k/707.714Ω/500Ω；K=1时约对应10/20/50/84/100/500/1000/1413/2000 µS/cm。0.01%级或更好、低温漂、四端测值、适合约100Hz低激励；按证书实际R换算。,精密电阻厂家/计量电阻箱厂家；贸泽/得捷购电阻后送校,"https://www.mouser.cn/
+https://www.digikey.cn/
+https://www.nim.ac.cn/",四端 标准 电阻 500欧 100k 0.01% 校准 电阻箱,https://s.taobao.com/search?q=%E5%9B%9B%E7%AB%AF%20%E6%A0%87%E5%87%86%20%E7%94%B5%E9%98%BB%20500%E6%AC%A7%20100k%200.01%25%20%E6%A0%A1%E5%87%86%20%E7%94%B5%E9%98%BB%E7%AE%B1,非标名义阻值可用附近已校准值，但只验证实际κ点；整量程端点须另外覆盖。DC测值需核对100Hz寄生误差；夹具干燥、短线、可复现。,B 电子学调试,电阻夹具不代替液体/电极/温度验收；不能把499Ω冒称2000点，其等效约2004 µS/cm在量程外。,待询价；未确认库存/价格
+Q006,校准与测试设备,高精度参考电导率仪+匹配电导池,可选，优先租/借,1,0,1,套,梅特勒等实验室级系统，按具体量程和证书定型,实际10–2000 µS/cm比较的组合不确定度须支持目标预算，优选U≤0.1–0.2%（k≈2）并核算；可读原始κ(T)或可关闭温补，有效校准。,品牌中国技术销售/计量实验室,"https://www.mt.com/cn/zh/home.html
+https://www.cnas.org.cn/",实验室 电导率仪 高精度 关闭 温度补偿 校准,https://s.taobao.com/search?q=%E5%AE%9E%E9%AA%8C%E5%AE%A4%20%E7%94%B5%E5%AF%BC%E7%8E%87%E4%BB%AA%20%E9%AB%98%E7%B2%BE%E5%BA%A6%20%E5%85%B3%E9%97%AD%20%E6%B8%A9%E5%BA%A6%E8%A1%A5%E5%81%BF%20%E6%A0%A1%E5%87%86,不是看分辨率或标称0.5%就买；参考仪+探头+标准液的实际证书与量程均需合格。,C 液体验证,有Q004完整服务时不必自购。,待询价；未确认库存/价格
+Q007,校准与测试设备,六位半台式数字万用表,建议租/已有复用,1,0,1,台,鼎阳SDM3065X/普源DM3068等作为询价候选,能四线测电阻500Ω–100kΩ；具体量程总误差+证书U必须满足Q005实测预算；低测试电流与自热可控。,鼎阳/普源官网渠道；现有实验室仪器,"https://www.siglent.com/
+https://www.rigol.com/",六位半 万用表 四线电阻 校准 鼎阳 普源,https://s.taobao.com/search?q=%E5%85%AD%E4%BD%8D%E5%8D%8A%20%E4%B8%87%E7%94%A8%E8%A1%A8%20%E5%9B%9B%E7%BA%BF%E7%94%B5%E9%98%BB%20%E6%A0%A1%E5%87%86%20%E9%BC%8E%E9%98%B3%20%E6%99%AE%E6%BA%90,候选型号不表示已确认达到所需U；六位半显示本身不是0.01%保证。无合适仪器可将标准电阻外送测值。,B 电阻标定,,待询价；未确认库存/价格
+Q008,校准与测试设备,台式可限流直流电源,调试必需，可已有复用,1,0,1,台,单路≥0–6V/1A，能精细限流,设置5.0V，先低电流限流排短路，再逐步增加；启动过程用示波器确认不超过5.1V设计范围。,鼎阳/普源/正规仪器店官网渠道,"https://www.siglent.com/
+https://www.rigol.com/",可调 直流 稳压电源 限流 低纹波,https://s.taobao.com/search?q=%E5%8F%AF%E8%B0%83%20%E7%9B%B4%E6%B5%81%20%E7%A8%B3%E5%8E%8B%E7%94%B5%E6%BA%90%20%E9%99%90%E6%B5%81%20%E4%BD%8E%E7%BA%B9%E6%B3%A2,先空载核对实际输出和极性；关机接线；不能把6V标称适配器直接试板。,B 首次上电,,待询价；未确认库存/价格
+Q009,校准与测试设备,数字示波器及两支10×探头,调试必需，可借用,1,0,1,套,两通道≥50MHz，常见100MHz型号可,查看3.3V/±15V启动、交流激励正负对称和低阻输出建立；原配10×探头及接地弹簧。,普源/鼎阳官网渠道,"https://www.rigol.com/
+https://www.siglent.com/",示波器 双通道 100MHz 探头,https://s.taobao.com/search?q=%E7%A4%BA%E6%B3%A2%E5%99%A8%20%E5%8F%8C%E9%80%9A%E9%81%93%20100MHz%20%E6%8E%A2%E5%A4%B4,台式示波器地夹通常接保护地，接地仅到确认的板地；浮动电极两端测量用差分探头或合适差分方法。,B 模拟调试,10MΩ探头也会扰动保持/高阻节点；优先探ADA4638/ADA4528等低阻输出。,待询价；未确认库存/价格
+Q010,校准与测试设备,差分电压探头,可选/浮动测量推荐,1,0,1,支,兼容所购示波器，低压差分测量,共模覆盖至少±15V，适合低频小信号，明确输入阻抗/电容及噪声；不以高压倍率探头导致小信号分辨率不足。,示波器厂家配套/正规仪器渠道,"https://www.siglent.com/
+https://www.rigol.com/",示波器 低压 差分探头 小信号,https://s.taobao.com/search?q=%E7%A4%BA%E6%B3%A2%E5%99%A8%20%E4%BD%8E%E5%8E%8B%20%E5%B7%AE%E5%88%86%E6%8E%A2%E5%A4%B4%20%E5%B0%8F%E4%BF%A1%E5%8F%B7,确认测量噪声与负载，不在高阻保持节点常驻；不拔示波器保护地解决浮动问题。,B 模拟调试,,待询价；未确认库存/价格
+Q011,校准与测试设备,便携数字万用表,装配调试必需，可已有复用,1,0,1,台,可靠的直流电压/电阻/通断表,至少4½位更方便，含细探针、可换表笔；用来排短路、核针序、5V/3.3V/±15V，不替代精密电阻校准。,正规品牌官网/京东自营/淘宝品牌店,https://www.jd.com/,数字 万用表 细 表笔,https://s.taobao.com/search?q=%E6%95%B0%E5%AD%97%20%E4%B8%87%E7%94%A8%E8%A1%A8%20%E7%BB%86%20%E8%A1%A8%E7%AC%94,低阻测量先扣表线电阻；电阻档不接带电板。,B 装配及上电,,待询价；未确认库存/价格
+Q012,校准与测试设备,环境温湿度记录仪,建议,1,0,1,台,温度分辨率0.1°C，湿度1%RH级,记录板卡环境温度/湿度以区别水温和电子学漂移；原型可用合格普通记录仪。,京东/淘宝正规仪器店,https://www.jd.com/,温湿度 记录仪 USB,https://s.taobao.com/search?q=%E6%B8%A9%E6%B9%BF%E5%BA%A6%20%E8%AE%B0%E5%BD%95%E4%BB%AA%20USB,时间戳可与电导日志对齐；环境读数不作为水温参考标准。,C 长时间验证,,待询价；未确认库存/价格
+Q013,校准与测试设备,板卡环境温度试验箱使用服务,后续可选,1,0,1,项,10/25/40°C板卡环境检查,用于板卡温漂研究，液体仍独立恒温；不把潮湿低温冷凝引入裸板。,本地环境试验实验室/共享设备,https://www.cnas.org.cn/,恒温恒湿 试验箱 租用 温漂,https://s.taobao.com/search?q=%E6%81%92%E6%B8%A9%E6%81%92%E6%B9%BF%20%E8%AF%95%E9%AA%8C%E7%AE%B1%20%E7%A7%9F%E7%94%A8%20%E6%B8%A9%E6%BC%82,先完成室温功能和水温校准；现阶段不用为一台样机专门买环境箱。,D 环境验证,,待询价；未确认库存/价格
+L001,容器与湿区耗材,非导电夹套样品池/带盖测量杯,精度验证必需,1,1,2,只,100–250 mL，玻璃/PP/PTFE，夹套与样液隔开,盖留电导、Pt1000、参考温度计孔；满足P001最小浸深/壁距；约100mL有效液量便于节省标准液，先核探头尺寸。,定制玻璃/实验耗材商淘宝；样液不得接触金属恒温槽或被浴液稀释。,,夹套 烧杯 电导率 100ml 250ml 带盖,https://s.taobao.com/search?q=%E5%A4%B9%E5%A5%97%20%E7%83%A7%E6%9D%AF%20%E7%94%B5%E5%AF%BC%E7%8E%87%20100ml%20250ml%20%E5%B8%A6%E7%9B%96,核对材质、尺寸、洁净程度；初用先纯水冲洗并做空白背景检查。,B 湿区准备 / C 标定,,待询价；未确认库存/价格
+L002,容器与湿区耗材,硼硅玻璃烧杯100mL,建议,2,0,2,只,100mL，带刻度但不作容量标准,试装、转移及一般冲洗；低端精密测量优先使用专用清洁容器。,淘宝实验耗材/京东实验器材,,高硼硅 烧杯 100ml,https://s.taobao.com/search?q=%E9%AB%98%E7%A1%BC%E7%A1%85%20%E7%83%A7%E6%9D%AF%20100ml,核对材质、尺寸、洁净程度；初用先纯水冲洗并做空白背景检查。,B 湿区准备 / C 标定,,待询价；未确认库存/价格
+L003,容器与湿区耗材,硼硅玻璃烧杯250mL,必需,3,1,4,只,250mL,不同液体分开使用并贴标签；玻璃清洁、浸泡条件影响低电导背景。,淘宝实验耗材/京东实验器材,,高硼硅 烧杯 250ml,https://s.taobao.com/search?q=%E9%AB%98%E7%A1%BC%E7%A1%85%20%E7%83%A7%E6%9D%AF%20250ml,核对材质、尺寸、洁净程度；初用先纯水冲洗并做空白背景检查。,B 湿区准备 / C 标定,,待询价；未确认库存/价格
+L004,容器与湿区耗材,硼硅玻璃烧杯500mL,建议,1,1,2,只,500mL,作冲洗/废液暂存；不得把用过标准液倒回原瓶。,淘宝实验耗材,,高硼硅 烧杯 500ml,https://s.taobao.com/search?q=%E9%AB%98%E7%A1%BC%E7%A1%85%20%E7%83%A7%E6%9D%AF%20500ml,核对材质、尺寸、洁净程度；初用先纯水冲洗并做空白背景检查。,B 湿区准备 / C 标定,,待询价；未确认库存/价格
+L005,容器与湿区耗材,洁净PP带盖样品杯,必需,20,30,50,只,100–250mL，洁净无清洗剂残留，低析出,低电导样品专用，必要时一次性使用；批次先做水空白污染检查。,淘宝实验耗材,,PP 样品杯 250ml 带盖 洁净,https://s.taobao.com/search?q=PP%20%E6%A0%B7%E5%93%81%E6%9D%AF%20250ml%20%E5%B8%A6%E7%9B%96%20%E6%B4%81%E5%87%80,核对材质、尺寸、洁净程度；初用先纯水冲洗并做空白背景检查。,B 湿区准备 / C 标定,,待询价；未确认库存/价格
+L006,容器与湿区耗材,HDPE/PP带盖储水瓶,必需,2,1,3,只,1L，洁净，低析出,只存冲洗水/一般水样；有证标准液保留原厂包装，不自行长期分装续有效期。,淘宝实验耗材,,HDPE 试剂瓶 1000ml,https://s.taobao.com/search?q=HDPE%20%E8%AF%95%E5%89%82%E7%93%B6%201000ml,核对材质、尺寸、洁净程度；初用先纯水冲洗并做空白背景检查。,B 湿区准备 / C 标定,,待询价；未确认库存/价格
+L007,容器与湿区耗材,PE洗瓶,必需,2,1,3,只,250–500mL,纯水、清洗液分别标识；出水嘴不接触电极表面。,淘宝实验耗材,,PE 洗瓶 500ml 实验室,https://s.taobao.com/search?q=PE%20%E6%B4%97%E7%93%B6%20500ml%20%E5%AE%9E%E9%AA%8C%E5%AE%A4,核对材质、尺寸、洁净程度；初用先纯水冲洗并做空白背景检查。,B 湿区准备 / C 标定,,待询价；未确认库存/价格
+L008,容器与湿区耗材,转移吸管/移液器吸头,必需,1,1,2,包,一次性PE吸管3–5mL，约100支/包,用于取少量液体；不用于按浓度自配精密电导标准。,淘宝实验耗材,,一次性 吸管 3ml PE,https://s.taobao.com/search?q=%E4%B8%80%E6%AC%A1%E6%80%A7%20%E5%90%B8%E7%AE%A1%203ml%20PE,核对材质、尺寸、洁净程度；初用先纯水冲洗并做空白背景检查。,B 湿区准备 / C 标定,,待询价；未确认库存/价格
+L009,容器与湿区耗材,量筒,建议,1,0,1,只,100或250mL，PP/玻璃,仅估计样液体积，不是制造电导标准液所需的量值基础。,淘宝实验耗材,,PP 量筒 100ml,https://s.taobao.com/search?q=PP%20%E9%87%8F%E7%AD%92%20100ml,核对材质、尺寸、洁净程度；初用先纯水冲洗并做空白背景检查。,B 湿区准备 / C 标定,,待询价；未确认库存/价格
+L010,容器与湿区耗材,小型磁力搅拌器,按恒温槽结构选购,1,0,1,台,无加热或可关闭加热，低速可调,夹套样品池可用，先确认搅拌子不在电极电场附近、不引入气泡；有循环充分混匀可免购。,淘宝实验仪器商,,磁力 搅拌器 无加热 低速,https://s.taobao.com/search?q=%E7%A3%81%E5%8A%9B%20%E6%90%85%E6%8B%8C%E5%99%A8%20%E6%97%A0%E5%8A%A0%E7%83%AD%20%E4%BD%8E%E9%80%9F,核对材质、尺寸、洁净程度；初用先纯水冲洗并做空白背景检查。,B 湿区准备 / C 标定,,待询价；未确认库存/价格
+L011,容器与湿区耗材,PTFE磁力搅拌子,与L010配套,2,2,4,个,10–20mm，不同尺寸各2,无破损；只在验证不影响电场的位置低速使用。,淘宝实验耗材,,PTFE 磁力 搅拌子 10mm 20mm,https://s.taobao.com/search?q=PTFE%20%E7%A3%81%E5%8A%9B%20%E6%90%85%E6%8B%8C%E5%AD%90%2010mm%2020mm,核对材质、尺寸、洁净程度；初用先纯水冲洗并做空白背景检查。,B 湿区准备 / C 标定,,待询价；未确认库存/价格
+L012,容器与湿区耗材,非金属探头支架/夹具,必需,1,1,2,套,PP/PEEK/PTFE夹具或绝缘夹持件,固定浸深、壁距，温度探头近电导池而不遮挡电场；夹持处不压坏玻璃电极。,淘宝实验器材/本地3D打印,,电极 支架 绝缘 夹具,https://s.taobao.com/search?q=%E7%94%B5%E6%9E%81%20%E6%94%AF%E6%9E%B6%20%E7%BB%9D%E7%BC%98%20%E5%A4%B9%E5%85%B7,核对材质、尺寸、洁净程度；初用先纯水冲洗并做空白背景检查。,B 湿区准备 / C 标定,,待询价；未确认库存/价格
+L013,容器与湿区耗材,夹套循环软管和卡箍,Q001外循环时必需,2,2,4,米/套,耐温硅胶管，内径按恒温槽和夹套接口选,0–50°C耐用，防脱；仅输浴液，与样液分开。,恒温槽厂家/淘宝,,恒温槽 循环 硅胶管 卡箍,https://s.taobao.com/search?q=%E6%81%92%E6%B8%A9%E6%A7%BD%20%E5%BE%AA%E7%8E%AF%20%E7%A1%85%E8%83%B6%E7%AE%A1%20%E5%8D%A1%E7%AE%8D,核对材质、尺寸、洁净程度；初用先纯水冲洗并做空白背景检查。,B 湿区准备 / C 标定,,待询价；未确认库存/价格
+L014,容器与湿区耗材,槽用浴液/纯水和防藻维护用品,按Q001说明选购,1,0,1,套,按槽厂家要求，液体范围含制冷设定温度,接近0°C如需防冻浴液按厂家配比，仅在外循环；不能加入电导样液。,恒温槽厂家,,恒温槽 浴液 防冻 低温,https://s.taobao.com/search?q=%E6%81%92%E6%B8%A9%E6%A7%BD%20%E6%B5%B4%E6%B6%B2%20%E9%98%B2%E5%86%BB%20%E4%BD%8E%E6%B8%A9,核对材质、尺寸、洁净程度；初用先纯水冲洗并做空白背景检查。,B 湿区准备 / C 标定,,待询价；未确认库存/价格
+L015,容器与湿区耗材,无粉丁腈手套,必需,1,0,1,盒,约100只/盒,避免手汗盐污染连接器和样品；按使用环境选择尺寸。,淘宝/京东耗材,,无粉 丁腈 手套 实验室,https://s.taobao.com/search?q=%E6%97%A0%E7%B2%89%20%E4%B8%81%E8%85%88%20%E6%89%8B%E5%A5%97%20%E5%AE%9E%E9%AA%8C%E5%AE%A4,核对材质、尺寸、洁净程度；初用先纯水冲洗并做空白背景检查。,B 湿区准备 / C 标定,,待询价；未确认库存/价格
+L016,容器与湿区耗材,无尘擦拭纸/无纺布,必需,1,1,2,包,低掉屑,擦干探头外壁/瓶外，不摩擦铂黑敏感表面，不让纸纤维进入电导池。,淘宝实验耗材,,实验室 无尘 擦拭纸,https://s.taobao.com/search?q=%E5%AE%9E%E9%AA%8C%E5%AE%A4%20%E6%97%A0%E5%B0%98%20%E6%93%A6%E6%8B%AD%E7%BA%B8,核对材质、尺寸、洁净程度；初用先纯水冲洗并做空白背景检查。,B 湿区准备 / C 标定,,待询价；未确认库存/价格
+L017,容器与湿区耗材,防水标签/记号笔/记录本,必需,1,0,1,套,能记批次、开瓶日、温度、采样日期,标准液编号与软件CSV记录一致；一杯一号。,淘宝文具/实验耗材,,实验室 标签 防水 记号笔,https://s.taobao.com/search?q=%E5%AE%9E%E9%AA%8C%E5%AE%A4%20%E6%A0%87%E7%AD%BE%20%E9%98%B2%E6%B0%B4%20%E8%AE%B0%E5%8F%B7%E7%AC%94,核对材质、尺寸、洁净程度；初用先纯水冲洗并做空白背景检查。,B 湿区准备 / C 标定,,待询价；未确认库存/价格
+L018,容器与湿区耗材,PP接液托盘/带盖废液瓶,必需,1,1,2,套,托盘+1L以上有盖瓶,隔开湿区和电路，避免样液洒入裸板；液体按供应商说明处理。,淘宝实验耗材,,PP 实验 托盘 废液瓶,https://s.taobao.com/search?q=PP%20%E5%AE%9E%E9%AA%8C%20%E6%89%98%E7%9B%98%20%E5%BA%9F%E6%B6%B2%E7%93%B6,核对材质、尺寸、洁净程度；初用先纯水冲洗并做空白背景检查。,B 湿区准备 / C 标定,,待询价；未确认库存/价格
+L019,容器与湿区耗材,无油注射器/软管排泡工具,可选,2,3,5,套,10–20mL，洁净，无针,仅在探头/流通池允许时排泡，不施压损坏玻璃池。,实验耗材商,,一次性 注射器 无针 20ml,https://s.taobao.com/search?q=%E4%B8%80%E6%AC%A1%E6%80%A7%20%E6%B3%A8%E5%B0%84%E5%99%A8%20%E6%97%A0%E9%92%88%2020ml,核对材质、尺寸、洁净程度；初用先纯水冲洗并做空白背景检查。,B 湿区准备 / C 标定,,待询价；未确认库存/价格
+T001,焊接装配工具,恒温电烙铁/焊台,必需，可已有复用,1,0,1,套,温控可靠，接地/ESD型；配刀头、尖头各1,0805、SOIC/MSOP引脚焊接；温度按焊料/器件说明设置，勿用大功率不可控电烙铁。,快克/安泰信等品牌官网或淘宝品牌渠道,"https://www.quick-global.com/
+https://www.atten.com.cn/",快克 恒温 焊台 刀头,https://s.taobao.com/search?q=%E5%BF%AB%E5%85%8B%20%E6%81%92%E6%B8%A9%20%E7%84%8A%E5%8F%B0%20%E5%88%80%E5%A4%B4,按需求规格核对；已有同等工具优先复用；淘宝须核实店铺主体、品牌来源、保修和耗材批次。,B 焊接前,,待询价；未确认库存/价格
+T002,焊接装配工具,热风返修台+小型预热台/回流加热工具,必需，可借用/委托焊MCU,1,0,1,套,可控温热风+PCB预热/回流平台，合适风嘴,ADuCM360底部EP必须形成焊点；热风应有预热、热曲线控制，不只用烙铁扫外围脚。,快克/安泰信等厂家渠道,"https://www.quick-global.com/
+https://www.atten.com.cn/",热风 返修台 PCB 预热台 QFN,https://s.taobao.com/search?q=%E7%83%AD%E9%A3%8E%20%E8%BF%94%E4%BF%AE%E5%8F%B0%20PCB%20%E9%A2%84%E7%83%AD%E5%8F%B0%20QFN,按需求规格核对；已有同等工具优先复用；淘宝须核实店铺主体、品牌来源、保修和耗材批次。,B 焊接前,,待询价；未确认库存/价格
+T003,焊接装配工具,体视显微镜/高质量电子显微镜,强烈建议,1,0,1,套,约10–40倍，足够工作距离，环形照明,观察0.5/0.65mm间距引脚、桥连和虚焊；只看得到不代表底部EP焊好。,淘宝光学仪器品牌店,,体视 显微镜 焊接 10 40倍,https://s.taobao.com/search?q=%E4%BD%93%E8%A7%86%20%E6%98%BE%E5%BE%AE%E9%95%9C%20%E7%84%8A%E6%8E%A5%2010%2040%E5%80%8D,按需求规格核对；已有同等工具优先复用；淘宝须核实店铺主体、品牌来源、保修和耗材批次。,B 焊接前,,待询价；未确认库存/价格
+T004,焊接装配工具,细尖镊子/斜口钳/剥线钳,必需,1,0,1,套,ESD镊子直头弯头各1；适合22–28AWG剥线,装0805、IC和处理导线；不夹擦铂黑电极。,立创/淘宝工具,https://www.szlcsc.com/,防静电 镊子 剥线钳 斜口钳,https://s.taobao.com/search?q=%E9%98%B2%E9%9D%99%E7%94%B5%20%E9%95%8A%E5%AD%90%20%E5%89%A5%E7%BA%BF%E9%92%B3%20%E6%96%9C%E5%8F%A3%E9%92%B3,按需求规格核对；已有同等工具优先复用；淘宝须核实店铺主体、品牌来源、保修和耗材批次。,B 焊接前,,待询价；未确认库存/价格
+T005,焊接装配工具,焊锡丝,必需,1,0,1,卷,0.3–0.5mm，正规品牌SAC305或既定合规体系,与焊膏/返修温度体系一致；选择后记录成分，按法规和实际用途决定是否使用含铅焊料。,品牌渠道/立创,https://www.szlcsc.com/,SAC305 焊锡丝 0.3mm,https://s.taobao.com/search?q=SAC305%20%E7%84%8A%E9%94%A1%E4%B8%9D%200.3mm,按需求规格核对；已有同等工具优先复用；淘宝须核实店铺主体、品牌来源、保修和耗材批次。,B 焊接前,,待询价；未确认库存/价格
+T006,焊接装配工具,细颗粒锡膏+点膏针筒/针头,必需，除非委托MCU贴装,1,0,1,套,小包装T4/T5或适合0.5mm间距；SAC305，未过期,MCU底焊盘、细间距用；按厂家温储/回温要求，不用干结陈膏；不在食品冰箱随意存放。,焊材品牌/正规SMT耗材商,,SAC305 T4 锡膏 小包装 点膏 针筒,https://s.taobao.com/search?q=SAC305%20T4%20%E9%94%A1%E8%86%8F%20%E5%B0%8F%E5%8C%85%E8%A3%85%20%E7%82%B9%E8%86%8F%20%E9%92%88%E7%AD%92,按需求规格核对；已有同等工具优先复用；淘宝须核实店铺主体、品牌来源、保修和耗材批次。,B 焊接前,,待询价；未确认库存/价格
+T007,焊接装配工具,助焊剂,必需,1,0,1,支/瓶,可清洗、低残留、匹配电子焊接,高阻测量区焊后彻底清洗与干燥；免洗标识不等于低漏电节点可以不洗。,正规焊材店/立创,https://www.szlcsc.com/,电子 焊接 助焊剂 低残留,https://s.taobao.com/search?q=%E7%94%B5%E5%AD%90%20%E7%84%8A%E6%8E%A5%20%E5%8A%A9%E7%84%8A%E5%89%82%20%E4%BD%8E%E6%AE%8B%E7%95%99,按需求规格核对；已有同等工具优先复用；淘宝须核实店铺主体、品牌来源、保修和耗材批次。,B 焊接前,,待询价；未确认库存/价格
+T008,焊接装配工具,吸锡带/吸锡器,必需,1,1,2,卷/套,吸锡带约1.5–2.5mm；吸锡器1只,修桥连；不要靠长时间加热硬拖小焊盘。,立创/淘宝工具,https://www.szlcsc.com/,吸锡带 2mm 吸锡器,https://s.taobao.com/search?q=%E5%90%B8%E9%94%A1%E5%B8%A6%202mm%20%E5%90%B8%E9%94%A1%E5%99%A8,按需求规格核对；已有同等工具优先复用；淘宝须核实店铺主体、品牌来源、保修和耗材批次。,B 焊接前,,待询价；未确认库存/价格
+T009,焊接装配工具,电子级IPA/相容清洗剂+防静电刷,必需,1,0,1,套,约500mL及小刷，按焊剂说明选,清除残留后充分干燥；LCD、编码器、蜂鸣器等不兼容浸洗器件需隔离；不能保证任意IPA都清得净所有焊剂。,电子清洗剂正规渠道/本地化学试剂商,,电子级 异丙醇 PCB 清洗剂 防静电 刷,https://s.taobao.com/search?q=%E7%94%B5%E5%AD%90%E7%BA%A7%20%E5%BC%82%E4%B8%99%E9%86%87%20PCB%20%E6%B8%85%E6%B4%97%E5%89%82%20%E9%98%B2%E9%9D%99%E7%94%B5%20%E5%88%B7,按需求规格核对；已有同等工具优先复用；淘宝须核实店铺主体、品牌来源、保修和耗材批次。,B 焊接前,,待询价；未确认库存/价格
+T010,焊接装配工具,PCB夹具/耐热垫/防静电台垫腕带,必需,1,0,1,套,稳固板夹、耐热垫，ESD按厂家要求接地,方便自焊及防止触摸高阻区；水样区与热风焊接区分开。,立创/淘宝工具,https://www.szlcsc.com/,PCB 焊接 夹具 防静电 台垫 腕带,https://s.taobao.com/search?q=PCB%20%E7%84%8A%E6%8E%A5%20%E5%A4%B9%E5%85%B7%20%E9%98%B2%E9%9D%99%E7%94%B5%20%E5%8F%B0%E5%9E%AB%20%E8%85%95%E5%B8%A6,按需求规格核对；已有同等工具优先复用；淘宝须核实店铺主体、品牌来源、保修和耗材批次。,B 焊接前,,待询价；未确认库存/价格
+T011,焊接装配工具,焊接烟雾抽排装置,建议,1,0,1,台,适合桌面焊接的局部抽排,按焊料/助焊剂说明安排通风；不是只放小风扇吹向脸部。,焊接工具品牌渠道,,焊接 烟雾 净化 抽烟仪,https://s.taobao.com/search?q=%E7%84%8A%E6%8E%A5%20%E7%83%9F%E9%9B%BE%20%E5%87%80%E5%8C%96%20%E6%8A%BD%E7%83%9F%E4%BB%AA,按需求规格核对；已有同等工具优先复用；淘宝须核实店铺主体、品牌来源、保修和耗材批次。,B 焊接前,,待询价；未确认库存/价格
+T012,焊接装配工具,接触式热电偶/测温记录工具,建议,1,0,1,套,细线K型探头+读出，可覆盖回流温度,观察预热/峰值温度并参考器件回流曲线；不作水样参考温度计。,仪器/焊接工具渠道,,K型 热电偶 回流 测温,https://s.taobao.com/search?q=K%E5%9E%8B%20%E7%83%AD%E7%94%B5%E5%81%B6%20%E5%9B%9E%E6%B5%81%20%E6%B5%8B%E6%B8%A9,按需求规格核对；已有同等工具优先复用；淘宝须核实店铺主体、品牌来源、保修和耗材批次。,B 焊接前,,待询价；未确认库存/价格
+T013,焊接装配工具,游标卡尺/小螺丝刀/放大镜,必需,1,0,1,套,卡尺分辨率0.01/0.02mm，小一字/十字,测连接器间距、外壳开孔、DC插头和机械尺寸。,淘宝/京东工具,,数显 游标卡尺 精密 螺丝刀,https://s.taobao.com/search?q=%E6%95%B0%E6%98%BE%20%E6%B8%B8%E6%A0%87%E5%8D%A1%E5%B0%BA%20%E7%B2%BE%E5%AF%86%20%E8%9E%BA%E4%B8%9D%E5%88%80,按需求规格核对；已有同等工具优先复用；淘宝须核实店铺主体、品牌来源、保修和耗材批次。,B 焊接前,,待询价；未确认库存/价格
+T014,焊接装配工具,测试钩/细探针/鳄鱼夹线,必需,1,1,2,套,绝缘小钩、接地弹簧、短测试线,只在已确认的低阻输出/电源地接入；钩夹不能跨接细间距引脚。,立创/淘宝仪器附件,https://www.szlcsc.com/,示波器 测试钩 细 探针 鳄鱼夹,https://s.taobao.com/search?q=%E7%A4%BA%E6%B3%A2%E5%99%A8%20%E6%B5%8B%E8%AF%95%E9%92%A9%20%E7%BB%86%20%E6%8E%A2%E9%92%88%20%E9%B3%84%E9%B1%BC%E5%A4%B9,按需求规格核对；已有同等工具优先复用；淘宝须核实店铺主体、品牌来源、保修和耗材批次。,B 焊接前,,待询价；未确认库存/价格
+T015,焊接装配工具,元件盒/0805标签袋,必需,1,0,1,套,防静电IC盒/袋，0805分格收纳,按位号/MPN/批次保存；精密0.01%电阻与普通同值件分开放。,立创/淘宝,https://www.szlcsc.com/,元件盒 防静电 袋 0805 标签,https://s.taobao.com/search?q=%E5%85%83%E4%BB%B6%E7%9B%92%20%E9%98%B2%E9%9D%99%E7%94%B5%20%E8%A2%8B%200805%20%E6%A0%87%E7%AD%BE,按需求规格核对；已有同等工具优先复用；淘宝须核实店铺主体、品牌来源、保修和耗材批次。,B 焊接前,,待询价；未确认库存/价格
+T016,焊接装配工具,MCU底焊盘贴装/检验服务,可选，替代部分工具投入,1,0,1,项,本地SMT店按LFCSP48+EP焊接，可选X-ray,缺少热风/回流经验时仅将U8交店焊，其余自焊；底焊盘不能靠外围目视证明。,本地电子维修/SMT小批量厂家,,LFCSP QFN 底部 焊盘 贴片 Xray,https://s.taobao.com/search?q=LFCSP%20QFN%20%E5%BA%95%E9%83%A8%20%E7%84%8A%E7%9B%98%20%E8%B4%B4%E7%89%87%20Xray,按需求规格核对；已有同等工具优先复用；淘宝须核实店铺主体、品牌来源、保修和耗材批次。,B 焊接前,,待询价；未确认库存/价格
+D001,下载与通信,正版J-Link及20针ARM调试排线,烧录调试必需，可已有复用,1,0,1,套,SEGGER J-Link，当前支持列表确认ADuCM360,兼容3.3V目标VTref，20pin/2.54mm ARM接口；J4的1VTref、7SWDIO、9SWCLK、15RESET；19不向板供电。,SEGGER官方中国销售/官方列出的代理；贸泽/得捷,"https://www.segger.com/products/debug-probes/j-link/
+https://www.mouser.cn/",SEGGER J-Link 正版 20pin ARM ADuCM360,https://s.taobao.com/search?q=SEGGER%20J-Link%20%E6%AD%A3%E7%89%88%2020pin%20ARM%20ADuCM360,付款前确认ADuCM360支持、20pin线和驱动；不默认任意ST-Link/CMSIS-DAP可用；不买10pin线直插本板。,B 烧录,按合法许可选择型号；EDU产品有用途限制，不能默认用于商业项目。,待询价；未确认库存/价格
+D002,下载与通信,隔离USB转RS485转换器,采集与校准必需,1,1,2,个,支持115200 baud、8N2、自动收发方向,有A/B/GND，隔离电源+数据优先；兼容Windows/Linux；本协议ASCII，不是Modbus。,品牌官网/京东/淘宝正规工业通信商,https://www.jd.com/,隔离 USB RS485 115200 8N2 自动收发,https://s.taobao.com/search?q=%E9%9A%94%E7%A6%BB%20USB%20RS485%20115200%208N2%20%E8%87%AA%E5%8A%A8%E6%94%B6%E5%8F%91,J2=1B、2GND、3A；厂商A/B标记可能反向，查手册；先短线一对一测试，现有10k电阻不是120Ω终端。,B 上位机连接,,待询价；未确认库存/价格
+D003,下载与通信,RS485双绞线与端子接线,必需,1,2,3,米,带参考地导体，屏蔽双绞线,短线桌面调试，A/B成对；与USB转换器相配，按终端需求接参考地，不盲接电脑外壳地。,立创/淘宝线缆商,https://www.szlcsc.com/,RS485 屏蔽 双绞线 3芯,https://s.taobao.com/search?q=RS485%20%E5%B1%8F%E8%94%BD%20%E5%8F%8C%E7%BB%9E%E7%BA%BF%203%E8%8A%AF,端子本体已在主板J2；这里买线材及转换器端配套端子。,B 上位机连接,,待询价；未确认库存/价格
+D004,下载与通信,USB数据线,按调试器/转换器接口买,2,1,3,根,实际USB-A/B/Micro/Type-C接口确认,能传数据，长度≤1–2m；调试器/转换器已附带可扣减。,淘宝/京东品牌线材,https://www.jd.com/,USB 数据线 屏蔽,https://s.taobao.com/search?q=USB%20%E6%95%B0%E6%8D%AE%E7%BA%BF%20%E5%B1%8F%E8%94%BD,不是只有充电的两芯线；下单前确认实物USB接口。,B 上位机连接,,待询价；未确认库存/价格
+D005,下载与通信,电脑与开源软件,需具备，通常复用,1,0,0,套,Windows/Linux电脑，Python3、J-Link工具、既有工程文件,支持USB端口；用交付lowheat固件、Python串口/校准脚本；软件和已有电脑不计新采购。,已有设备；SEGGER/Python官网,"https://www.segger.com/
+https://www.python.org/",,,R13=4.99k只配freshwater_lowheat；完整一组采样约2.4秒，日志间隔建议≥3秒并检查数据计数变化。,B 烧录与C校准,,待询价；未确认库存/价格
+D006,下载与通信,USB隔离/备用连接器附件,可选,1,0,1,套,按USB速率与调试器供电要求选型,若D002已充分隔离且J-Link接地方案正确，可不买额外隔离器；普通廉价隔离器可能不支持调试器USB模式。,仪器厂家配套/正规通信商,,USB 隔离器 调试器 兼容,https://s.taobao.com/search?q=USB%20%E9%9A%94%E7%A6%BB%E5%99%A8%20%E8%B0%83%E8%AF%95%E5%99%A8%20%E5%85%BC%E5%AE%B9,先确认USB速率、输出供电和软件兼容，不能用断保护地代替隔离。,B 按实测需要,,待询价；未确认库存/价格
