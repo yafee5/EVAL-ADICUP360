@@ -1,0 +1,319 @@
+{
+  "product": "FW-EC-TX Rev B0",
+  "date_Asia_Shanghai": "2026-10-22",
+  "release": "ENGINEERING_REVIEW_NOT_PRODUCTION_RELEASED",
+  "mainboard": {
+    "board": "FW-EC-TX Rev B0",
+    "scope": "mainboard only; not isolation/LDO/ratio adapters",
+    "assembly_release": "ENGINEERING_BARE_BOARD_ONLY_NOT_AUTOMATED_PCBA_RELEASE",
+    "electrical_DRC": {
+      "status": "NOT_GENERATED",
+      "reason": "No native mainboard electrical PCB or authoritative pad-pin-net assignment; CAM geometric comparison is not electrical DRC."
+    },
+    "Gerber_copper_mask_silk_outline": {
+      "status": "GENERATED_VERIFIED_CAM_DERIVATION",
+      "path": "manufacturer/",
+      "checks": "Four copper, drill, outline, masks and bottom silk byte-identical to audited v0.2; selected top silk region replaced and retained primitives compared."
+    },
+    "drill": {
+      "status": "PRESERVED_VERIFIED",
+      "path": "manufacturer/FW_EC_TX_B0_explicit_metric.drl",
+      "operations": 247,
+      "round": 233,
+      "slots": 14
+    },
+    "paste_GTP_GBP": {
+      "status": "NOT_GENERATED",
+      "reason": "No authoritative footprint/pad-to-reference and DNP-aware stencil data; do not derive blindly from solder mask."
+    },
+    "IPC_356": {
+      "status": "NOT_GENERATED",
+      "reason": "Authoritative design-intent net assignments absent."
+    },
+    "CPL": {
+      "status": "NOT_GENERATED",
+      "reason": "Component origin, orientation convention, side/pin1 assignments absent."
+    },
+    "schematic_PDF": {
+      "status": "ASSEMBLY_ECO_OVER_ORIGINAL_3_PAGE_PDF",
+      "path": "mainboard_RevB0_assembly_ECO.pdf",
+      "native_reconstructed": false
+    },
+    "stackup": {
+      "status": "PROPOSED_NOT_ORIGINAL_VENDOR_SPEC",
+      "finished_thickness_mm": 1.6,
+      "outer_copper_um": 35,
+      "inner_copper_um": 17.5,
+      "layer_order": [
+        "GTL:L1",
+        "G2:L2",
+        "G3:L3",
+        "GBL:L4"
+      ],
+      "G2_G3_net_names": "NOT_VERIFIED_NO_LAYOUT_NETLIST"
+    },
+    "manufacturing_completion_path": "README_主板生产边界.md section 5; retrieve PADS Rev A native or reconstruct electrical CAD, cross-check all 197 references and copper connectivity, then generate all outputs from the same PCB."
+  },
+  "new_boards": {
+    "isolation_power": {
+      "drc_file": "hardware/isolation/drc.json",
+      "erc_file": "hardware/isolation/erc.json",
+      "DRC_violations": 0,
+      "unconnected": 0,
+      "schematic_parity_issues": 0,
+      "ERC_violations": 0,
+      "paste_top": true,
+      "paste_bottom": true,
+      "IPC356": true,
+      "CPL": true,
+      "KiCad_sch": true,
+      "KiCad_pcb": true,
+      "hardware_execution_tested": false
+    },
+    "ratio_adapter": {
+      "drc_file": "hardware/ratio_adapter/drc.json",
+      "erc_file": "hardware/ratio_adapter/erc.json",
+      "DRC_violations": 0,
+      "unconnected": 0,
+      "schematic_parity_issues": 0,
+      "ERC_violations": 0,
+      "paste_top": true,
+      "paste_bottom": true,
+      "IPC356": true,
+      "CPL": true,
+      "KiCad_sch": true,
+      "KiCad_pcb": true,
+      "hardware_execution_tested": false
+    }
+  },
+  "bom": {
+    "main_reference_records": 199,
+    "all_records": 232,
+    "order_rows": 68,
+    "module_bom_sources": [
+      "hardware/isolation/isolation_bom.csv",
+      "hardware/ratio_adapter/ratio_adapter_bom.csv"
+    ],
+    "main_DNP_records": 41,
+    "supplier_skus_verified": 0,
+    "inventory_verified": false,
+    "production_release": "HOLD",
+    "hold_items": [
+      "R13",
+      "R47"
+    ]
+  },
+  "firmware": {
+    "compiled": true,
+    "manifest": "firmware/build/manifest.json",
+    "hex": "firmware/build/fw_ec_tx_b0.hex",
+    "image_validation": {
+      "hex_programmed_bytes": 18276,
+      "flash_address_end_exclusive": 18276,
+      "ram_static_and_copied_code_bytes": 2648,
+      "reserved_stack_bytes": 2048,
+      "unallocated_ram_between_static_and_stack": 3496,
+      "ram_flash_routines": {
+        "flash_erase_ram": "0x20000054",
+        "flash_program_ram": "0x200000b8"
+      },
+      "hex_checks": "all checksums; no overlap; no calibration/security addresses; valid initial SP and Thumb reset vector",
+      "ram_flash_routines_check": "both in startup-copied RAM, no subroutine calls in their disassembly",
+      "stack_usage_reports": "*.su contain compiler static frame sizes; no measured stack watermark yet"
+    },
+    "host_validation": {
+      "checked_at_utc": "2026-10-22T00:49:19.205707+00:00",
+      "all_checks_passed": true,
+      "commands": [
+        {
+          "name": "acquisition_framer_main_hal",
+          "command": [
+            "python3",
+            "tests/run_tests.py"
+          ],
+          "cwd": "firmware",
+          "exit_code": 0,
+          "wall_seconds": 2.127,
+          "output": "PASS acquisition cycles, full-cycle discard, hysteresis, gain change, ADC faults, PWM clocks; RTD501 max 0.00009346 C\nPASS RTU: RX-complete timestamps, actual t1.5/t3.5 silence, conservative idle, wrap, parity/error, full/overlength ADU, pending frame\nPASS foreground/HAL integration: Flash timestamp crossing, TEMT-delayed apply, late aborted ADC rejected, forced-mode restart/expiry, RTD fault preserves kT, nLF stays disabled"
+        },
+        {
+          "name": "modbus_flash_journal",
+          "command": [
+            "sh",
+            "protocol/tests/run_tests.sh"
+          ],
+          "cwd": "firmware",
+          "exit_code": 0,
+          "wall_seconds": 1.673,
+          "output": "PASS: 19169 protocol/storage checks (synthetic nLF integrity fixtures only; no hardware or ISO coefficient validation)"
+        },
+        {
+          "name": "nlf_numerics_integrity",
+          "command": [
+            "python3",
+            "../compensation/test_nlf.py"
+          ],
+          "cwd": "firmware",
+          "exit_code": 0,
+          "wall_seconds": 0.198,
+          "output": "{\n  \"checks_passed\": 7042,\n  \"profile_size\": 188,\n  \"compiler\": \"cc C99 -Wall -Wextra -Werror -pedantic -O2\",\n  \"temperature_sweep_points_each_fixture\": 3501,\n  \"max_synthetic_linear_abs_uScm\": 5.7220458984375e-05,\n  \"max_synthetic_exponential_relative_error\": 5.008645054482841e-05,\n  \"synthetic_exponential_interpolation_theoretical_bound\": 5.0000416668138925e-05,\n  \"standard_conformance_validated\": false,\n  \"reason\": \"No traceable ISO/DIN/EN factor table has been obtained; tests are synthetic numerical/integrity checks.\"\n}"
+        },
+        {
+          "name": "client_actual_C_protocol",
+          "command": [
+            "python3",
+            "tools/test_client.py"
+          ],
+          "cwd": "firmware",
+          "exit_code": 0,
+          "wall_seconds": 0.458,
+          "output": "test_bad_address_times_out (__main__.ClientTests.test_bad_address_times_out) ... ok\ntest_bad_crc_rejected (__main__.ClientTests.test_bad_crc_rejected) ... ok\ntest_bad_length_rejected_before_payload (__main__.ClientTests.test_bad_length_rejected_before_payload) ... ok\ntest_bad_write_echo_rejected (__main__.ClientTests.test_bad_write_echo_rejected) ... ok\ntest_configure_crc_commit_and_old_reply_settings (__main__.ClientTests.test_configure_crc_commit_and_old_reply_settings) ... ok\ntest_crc_and_float_wire_vectors (__main__.ClientTests.test_crc_and_float_wire_vectors) ... ok\ntest_every_documented_register_block_is_readable_in_actual_firmware (__main__.ClientTests.test_every_documented_register_block_is_readable_in_actual_firmware) ... ok\ntest_exception_and_locked_write (__main__.ClientTests.test_exception_and_locked_write) ... ok\ntest_force_keepalive_and_auto (__main__.ClientTests.test_force_keepalive_and_auto) ... ok\ntest_forced_timeout (__main__.ClientTests.test_forced_timeout) ... ok\ntest_gain_calibration_uses_raw_G_not_K_or_existing_correction (__main__.ClientTests.test_gain_calibration_uses_raw_G_not_K_or_existing_correction) ... ok\ntest_invalid_calibration_input_does_not_write (__main__.ClientTests.test_invalid_calibration_input_does_not_write) ... ok\ntest_nlf_import_actual_staging_and_enable_last (__main__.ClientTests.test_nlf_import_actual_staging_and_enable_last) ... ok\ntest_nlf_rejects_unreviewed_and_wrong_source_and_modified_staging (__main__.ClientTests.test_nlf_rejects_unreviewed_and_wrong_source_and_modified_staging) ... ok\ntest_status_partial_reads_and_nan (__main__.ClientTests.test_status_partial_reads_and_nan) ... ok\ntest_unsupported_read_address (__main__.ClientTests.test_unsupported_read_address) ... ok\n\n----------------------------------------------------------------------\nRan 16 tests in 0.358s\n\nOK"
+        },
+        {
+          "name": "arm_image",
+          "command": [
+            "python3",
+            "build_firmware.py"
+          ],
+          "cwd": "firmware",
+          "exit_code": 0,
+          "wall_seconds": 1.533,
+          "output": "Memory region         Used Size  Region Size  %age Used\n           FLASH:       17928 B     129536 B     13.84%\n             RAM:        2648 B         8 KB     32.32%\n   text\t   data\t    bss\t    dec\t    hex\tfilename\n  18276\t      0\t   2300\t  20576\t   5060\t/workspace/conductivity-meter/transmitter/firmware/build/fw_ec_tx_b0.elf\nBuilt /workspace/conductivity-meter/transmitter/firmware/build/fw_ec_tx_b0.hex"
+        }
+      ],
+      "hardware_execution_tested": false,
+      "physical_UART_RS485_tested": false,
+      "physical_Flash_power_loss_tested": false,
+      "sensor_accuracy_verified": false,
+      "ISO_nLF_conformance_verified": false,
+      "nlf_factory_profile": "Disabled; kappa25=NaN and NLF_UNVERIFIED until reviewed traceable factors are provisioned",
+      "limitations": [
+        "HAL and client tests use the actual C application/protocol with simulated peripheral operations.",
+        "nLF fixtures test interpolation and corruption handling; they are synthetic, not ISO coefficients.",
+        "Compiler stack reports and image bounds do not replace measured stack watermark or board tests."
+      ],
+      "build_manifest": {
+        "version": "FW-EC-TX Rev B0",
+        "compiler": "arm-none-eabi-gcc (15:14.2.rel1-1) 14.2.1 20241119",
+        "files": {
+          "fw_ec_tx_b0.elf": "096aea35cd7da36f495e5a6ed3c68f5545701b79d8335147fd3f9a0fa75a6702",
+          "fw_ec_tx_b0.hex": "b235f5881791059aba97b1cd95ef497608e9bb698989cfc2d7520e7173bba02a",
+          "fw_ec_tx_b0.bin": "c445a6d1ccdb7c0616d40ad5ed4ad81fbecdb2a3bdeee7d7bf0bde7a45da2e96"
+        },
+        "source_files": {
+          "firmware/src/main.c": "871dd2adcd454ae64cdc083abb058c5d6b416be84f3a591d971284d76c7fc7db",
+          "firmware/src/tx_acquisition.c": "d5c6f9262de71264f3e44934133d9edf3e4ca9a0e89d8f4ce324f033c7da338c",
+          "firmware/src/tx_board_aducm360.c": "8aea6d455605cc4e2428751907ceb746b82e22f2bb3c34da484488875f590db8",
+          "firmware/src/tx_flash_aducm360.c": "7624935568f9e82ea31ad04fb379fcc9e164bed960d7b578f3062d1ad8def64a",
+          "firmware/src/tx_rtu_framer.c": "afb914d6cb192527e121331c29957adca8b67b03dbed2a754d9eaf357e37a335",
+          "firmware/protocol/tx_protocol.c": "9df185be717b73ae4e60212c21e6704e028a909cd8d1bd26ff59d4fddba0db05",
+          "firmware/protocol/tx_storage.c": "c4eb45a583b2ce6bf9e3320ce44cc103fa041954cd4bfce9f54837dbbc30a8e1",
+          "compensation/nlf.c": "717ca1d375188e4a572c4819952db3880933cdf4d171f96377d44a0a11c21846",
+          "firmware/vendor/system_ADuCM360.c": "c68e8549abcf7a4ef76996fcbf3a92a26cd7da168d6ceee7b8e7d3c94033787e",
+          "firmware/vendor/startup_ADuCM360.S": "472d794eebbe5eee61f31a73356175a649ea549f912f8ab030b364113c667943",
+          "firmware/include/tx_acquisition.h": "7a6589845e4ca8cf53b7d136c916d1579fe15e3fae3ec920766bad3537aafe32",
+          "firmware/include/tx_board.h": "4a33199e3d6971a1b8a2f51156a2b886a580ff6c959a5f4034dffae06b567f84",
+          "firmware/include/tx_rtu_framer.h": "836894b90dcf4dab7fb84aebfb43a85b1161384ceff540df03d2e35425aee82f",
+          "firmware/protocol/tx_protocol.h": "f085ff80d3a1ae2e453d90d578909dff85c8aba955899c3a97e87651edf4f91a",
+          "compensation/nlf.h": "cdc1846e1e9cf6fcf52a5f6fa03482799b30e4a9d938d5770d5424966ae534ff"
+        },
+        "flash": {
+          "application_end_exclusive": "0x1FA00",
+          "calibration_a": "0x1FA00",
+          "calibration_b": "0x1FC00",
+          "security_page_untouched": "0x1FE00..0x1FFFF"
+        },
+        "uart": "9600 8E1 address 1 default; Modbus RTU only",
+        "hardware_execution_tested": false,
+        "image_validation": {
+          "hex_programmed_bytes": 18276,
+          "flash_address_end_exclusive": 18276,
+          "ram_static_and_copied_code_bytes": 2648,
+          "reserved_stack_bytes": 2048,
+          "unallocated_ram_between_static_and_stack": 3496,
+          "ram_flash_routines": {
+            "flash_erase_ram": "0x20000054",
+            "flash_program_ram": "0x200000b8"
+          },
+          "hex_checks": "all checksums; no overlap; no calibration/security addresses; valid initial SP and Thumb reset vector",
+          "ram_flash_routines_check": "both in startup-copied RAM, no subroutine calls in their disassembly",
+          "stack_usage_reports": "*.su contain compiler static frame sizes; no measured stack watermark yet"
+        },
+        "nlf_default": "disabled until traceable ISO table provisioned; k25=NaN + unverified flag",
+        "removed": [
+          "LCD",
+          "menus",
+          "encoder",
+          "buzzer",
+          "Pt100",
+          "2/3-wire RTD autodetection",
+          "ASCII console"
+        ],
+        "build_verified": [
+          "ARM GCC -Wall -Wextra -Werror",
+          "linker RAM and Flash bounds",
+          "no UI/heap/printf symbols",
+          "hex generated from ELF"
+        ]
+      },
+      "image_validation": {
+        "hex_programmed_bytes": 18276,
+        "flash_address_end_exclusive": 18276,
+        "ram_static_and_copied_code_bytes": 2648,
+        "reserved_stack_bytes": 2048,
+        "unallocated_ram_between_static_and_stack": 3496,
+        "ram_flash_routines": {
+          "flash_erase_ram": "0x20000054",
+          "flash_program_ram": "0x200000b8"
+        },
+        "hex_checks": "all checksums; no overlap; no calibration/security addresses; valid initial SP and Thumb reset vector",
+        "ram_flash_routines_check": "both in startup-copied RAM, no subroutine calls in their disassembly",
+        "stack_usage_reports": "*.su contain compiler static frame sizes; no measured stack watermark yet"
+      },
+      "client_validation": {
+        "tests_run": 16,
+        "failures": 0,
+        "errors": 0,
+        "passed": true,
+        "target": "actual C tx_protocol.c + tx_storage.c + nlf.c through fragmented mock serial port",
+        "limitations": [
+          "not physical UART/RS485/MCU Flash test",
+          "synthetic nLF fixture is not an ISO algorithm or production profile"
+        ]
+      },
+      "nlf_validation": {
+        "checks_passed": 7042,
+        "profile_size": 188,
+        "compiler": "cc C99 -Wall -Wextra -Werror -pedantic -O2",
+        "temperature_sweep_points_each_fixture": 3501,
+        "max_synthetic_linear_abs_uScm": 5.7220458984375e-05,
+        "max_synthetic_exponential_relative_error": 5.008645054482841e-05,
+        "synthetic_exponential_interpolation_theoretical_bound": 5.0000416668138925e-05,
+        "standard_conformance_validated": false,
+        "reason": "No traceable ISO/DIN/EN factor table has been obtained; tests are synthetic numerical/integrity checks."
+      }
+    },
+    "hardware_execution_tested": false
+  },
+  "nlf": {
+    "algorithm_framework": "implemented_and_host_tested",
+    "traceable_ISO7888_factors_obtained": false,
+    "production_profile_generated": false,
+    "default_kappa25": "NaN + NLF_UNVERIFIED",
+    "temperature_policy": "0..35 C only, no extrapolation; conductivity applicability currently checked against kappa25 pending standard confirmation"
+  },
+  "physical_validation": {
+    "conductivity_accuracy": false,
+    "temperature_chain_accuracy": false,
+    "electrode_frequency_linearity": false,
+    "supply_noise_and_thermal": false,
+    "surge_EMC_isolation": false,
+    "mechanical_adapter_fit": false
+  },
+  "production_hold_reasons": [
+    "No trustworthy mainboard GTP/GBP, CPL, IPC356 or electrical DRC; native RevA CAD absent.",
+    "No verified ISO7888 nLF factors; kappa25 function cannot be accepted as completed.",
+    "R13/R47 complete precision-resistor MPNs and distributor SKUs unconfirmed; inventory/lifecycle not live-verified.",
+    "Prototype has not been assembled or measured against stated accuracy/thermal/EMC/isolation targets."
+  ]
+}
