@@ -1,0 +1,115 @@
+{
+  "product": "FW-EC-PROBE-C0",
+  "release_status": "ENGINEERING_REVIEW_NOT_FOR_FABRICATION",
+  "generated_at_utc": "2026-10-22T03:22:58.572779+00:00",
+  "production_release": false,
+  "items": [
+    {
+      "item": "原生KiCad电气工程",
+      "status": "工程重建完成，未生产放行",
+      "evidence": "hardware/native；总210位号/前165/后45；逐脚网表对照报告"
+    },
+    {
+      "item": "全部PCB",
+      "status": "未完成",
+      "evidence": "前板16.5×105mm布局草案，走线/DRC见实际报告；后板无PCB"
+    },
+    {
+      "item": "ERC零错误",
+      "status": "未完成",
+      "evidence": {
+        "errors": 1,
+        "warnings": 1,
+        "unconnected": 0,
+        "parity": 0,
+        "source": "hardware/native/erc.json",
+        "design_source": "FW_EC_PROBE_C0.kicad_sch",
+        "reported_at": "2026-10-22T03:21:33+0000",
+        "pass": false
+      }
+    },
+    {
+      "item": "DRC零错误与整板电气一致性",
+      "status": "未完成",
+      "evidence": {
+        "errors": 0,
+        "warnings": 67,
+        "unconnected": 70,
+        "parity": 0,
+        "source": "hardware/frontend/drc_selected_draft.json",
+        "design_source": "FW_EC_FRONTEND_C0_LAYOUT_DRAFT.kicad_pcb",
+        "reported_at": "2026-10-22T03:22:34+0000",
+        "pass": false
+      }
+    },
+    {
+      "item": "可下单Gerber/顶底锡膏/分钻/IPC356/CPL",
+      "status": "未完成，未发布C0生产CAM",
+      "evidence": "随包ADI原Gerber仅作来源比对；不可当C0制造文件"
+    },
+    {
+      "item": "叠层说明",
+      "status": "候选要求已列；板厂压合表未确认",
+      "evidence": "docs/叠层与制造边界.md"
+    },
+    {
+      "item": "BOM/大陆采购入口/删除与差异表",
+      "status": "工程询价版已完成；HOLD未放行",
+      "evidence": {
+        "component_rows": 210,
+        "physical_parts_per_unit": 203,
+        "pcb_feature_rows": 7,
+        "consolidated_electronic_lines": 76,
+        "external_procurement_lines": 59,
+        "hold_lines": 80,
+        "deletion_rows": 39
+      }
+    },
+    {
+      "item": "固件源码和HEX/协议",
+      "status": "主机验证通过；台架候选，未上新板",
+      "evidence": {
+        "all_checks_passed": true,
+        "report": "firmware/build/firmware_validation.json"
+      }
+    },
+    {
+      "item": "ISO7888 nLF成品温补",
+      "status": "未完成；正式因子缺失，κ25默认无效",
+      "evidence": "compensation/ 与 assessment/nlf_source_search_C0.md"
+    },
+    {
+      "item": "STEP与装壳截面",
+      "status": "前板裸板与假设包络完成；全机适配未完成",
+      "evidence": {
+        "report": "mechanical/mechanical_validation.json",
+        "front_length_mm": 108.905,
+        "verified_fit": false
+      }
+    },
+    {
+      "item": "接线图",
+      "status": "接口约定已完成；未实物联线验证",
+      "evidence": "docs/C0_wiring_DRAFT.pdf"
+    },
+    {
+      "item": "原始ADI资料",
+      "status": "Rev A官方PDF/BOM/Gerber/固件包归档；原生ADI CAD ZIP未取得",
+      "evidence": "references/C0_reference_manifest.json"
+    },
+    {
+      "item": "实物精度/温升/耐压/EMC/密封",
+      "status": "全部未验证",
+      "evidence": "assessment/误差预算与验收方案.md 与 power_feasibility.md"
+    }
+  ],
+  "blocking_missing_information": [
+    "T201 manufacturer mechanical drawing and physical pin map",
+    "L202 exact land pattern",
+    "U203 current RD8-4 exposed-pad drawing",
+    "qualified precision resistor and full probe MPNs",
+    "reviewed traceable ISO7888 nLF factors",
+    "actual housing inner dimensions and net cavity",
+    "complete PCB routing/ERC/DRC and hardware validation"
+  ]
+}

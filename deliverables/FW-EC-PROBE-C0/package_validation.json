@@ -1,0 +1,55 @@
+{
+  "zip_entries": 375,
+  "zip_crc": "PASS",
+  "firmware_hash_validation": "PASS",
+  "archive_bytes": 41884569,
+  "archive_sha256": "1e17cf92bfbab0801899fc75936577a931e8c7108be008181442f978f8774858",
+  "production_release": false,
+  "files": [
+    {
+      "file": "FW_EC_PROBE_C0_BOM_RFQ.xlsx",
+      "bytes": 215160,
+      "sha256": "5e7ab546c72a6623f52bf4b610cebec0bec9ab327db09a94aa53b90a083569ae"
+    },
+    {
+      "file": "FW_EC_PROBE_C0_engineering_review_20261022.zip",
+      "bytes": 41884569,
+      "sha256": "1e17cf92bfbab0801899fc75936577a931e8c7108be008181442f978f8774858"
+    },
+    {
+      "file": "FW_EC_PROBE_C0_modbus_registers.csv",
+      "bytes": 20391,
+      "sha256": "bf04784be2c02f878805bf05f95c5967d2d06e19645f9037fd5688b70a3d57d7"
+    },
+    {
+      "file": "FW_EC_PROBE_C0_project_procurement.csv",
+      "bytes": 165279,
+      "sha256": "308e44abb761520ca348d18fdf87f1a95d467f174a4ffcbc43753077cec3975f"
+    },
+    {
+      "file": "FW_EC_PROBE_C0_review.pdf",
+      "bytes": 1194113,
+      "sha256": "5f38325143b056c0e489d63add006899f0431493d6424003727ff211f2328490"
+    },
+    {
+      "file": "FW_EC_PROBE_C0_wiring_DRAFT.pdf",
+      "bytes": 29633,
+      "sha256": "98004d2bf706e7a7dd0358a66c9d690076908c465901409684985a014f1a3b85"
+    },
+    {
+      "file": "README.md",
+      "bytes": 5782,
+      "sha256": "af423d5087ef428ff738ee1bc4bad4b48294f247e80f2d88b52195652a6fb9b3"
+    },
+    {
+      "file": "delivery_status.json",
+      "bytes": 3778,
+      "sha256": "0042087acf8d0b4e17385c6c958a62b33fe728c30902cfa01ef906b15f76d352"
+    },
+    {
+      "file": "fw_ec_probe_c0_bench.hex",
+      "bytes": 54325,
+      "sha256": "b0d1837ca2e008261b08b32e79d6e8474a540ac64a3fe40a77c441f9bb21f19c"
+    }
+  ]
+}
